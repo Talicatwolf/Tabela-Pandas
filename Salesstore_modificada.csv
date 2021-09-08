@@ -1,0 +1,731 @@
+,ID_Pedido,Prioridade_Pedido,Quantidade_Pedido,Vendas,Modo_Envio,Lucro,Nome_Cliente,Região,Tipo_Cliente,Categoria_Produto,SubCategoria_Produto,Nome_Produto,Embalagem_Produto
+0,643,Alta,21,2781.82,Envio Expresso,-695.26,Monica Federle,Nunavut,Corporativo,Insumos de Escritório,Armazenamento e Organização,"SAFCO Commercial Wire Shelving, Black",Caixa Grande
+1,8995,Alta,35,3389.93,Envio Expresso,737.94,Beth Paige,Northwest Territories,Consumidor,Mobília,Móveis de escritório,Luxo Professional Combination Clamp-On Lamps,Caixa Grande
+2,9127,Não especificada,7,2039.56,Envio Expresso,-329.49,Bryan Davis,Northwest Territories,Corporativo,Insumos de Escritório,Armazenamento e Organização,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",Caixa Grande
+3,26272,Baixa,6,905.94,Envio Expresso,-4.19,Carlos Daly,Northwest Territories,Escritório em Casa,Mobília,Cadeiras e tapetes para cadeiras,Hon Olson Stacker Stools,Caixa Grande
+4,36646,Média,24,1168.15,Envio Expresso,-743.96,Muhammed MacIntyre,Northwest Territories,Pequenas Empresas,Insumos de Escritório,Armazenamento e Organização,Tennsco Industrial Shelving,Caixa Grande
+5,41696,Não especificada,45,237.28,Envio Expresso,-2088.68,Bryan Mills,Northwest Territories,Pequenas Empresas,Insumos de Escritório,Eletrodomésticos,Hoover Portapower™ Portable Vacuum,Caixa Grande
+6,43267,Crítica,17,1368.14,Envio Expresso,171.26,Fred Wasserman,Northwest Territories,Escritório em Casa,Insumos de Escritório,Eletrodomésticos,Honeywell Enviracaire® Portable Air Cleaner for up to 8 x 10 Room,Caixa Grande
+7,29319,Baixa,21,4429.69,Envio Expresso,983.55,Filia McAdams,Atlantic,Pequenas Empresas,Tecnologia,Copiadoras e Fax,Canon PC-428 Personal Copier,Caixa Grande
+8,5988,Não especificada,40,19109.61,Envio Expresso,-379.29,Sanjit Chand,West,Escritório em Casa,Tecnologia,Copiadoras e Fax,Sharp AL-1530CS Digital Copier,Caixa Grande
+9,51073,Não especificada,17,2475.08,Envio Expresso,958.8,Luke Weiss,West,Corporativo,Mobília,Móveis de escritório,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Caixa Grande
+10,29185,Alta,48,446.53,Envio Expresso,-261.45,Rob Dowd,West,Corporativo,Mobília,Móveis de escritório,Westinghouse Clip-On Gooseneck Lamps,Caixa Grande
+11,32582,Não especificada,27,2780.88,Envio Expresso,595.38,Tony Chapman,West,Consumidor,Mobília,Móveis de escritório,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,Caixa Grande
+12,39332,Crítica,4,198.72,Envio Expresso,-34.43,Khloe Miller,West,Consumidor,Mobília,Móveis de escritório,Dana Halogen Swing-Arm Architect Lamp,Caixa Grande
+13,49088,Crítica,15,4012.58,Envio Expresso,-425.14,Kristina Nunn,Atlantic,Consumidor,Insumos de Escritório,Armazenamento e Organização,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",Caixa Grande
+14,29318,Não especificada,21,2954.14,Envio Expresso,-522.94,Bobby Odegard,Ontario,Corporativo,Insumos de Escritório,Armazenamento e Organização,"SAFCO Commercial Wire Shelving, Black",Caixa Grande
+15,50533,Não especificada,32,1974.66,Envio Expresso,-929.68,Adam Bellavance,Ontario,Pequenas Empresas,Insumos de Escritório,Armazenamento e Organização,Space Solutions Commercial Steel Shelving,Caixa Grande
+16,21383,Baixa,31,16066.85,Envio Normal,7416.43,Rick Reed,Northwest Territories,Consumidor,Tecnologia,Máquinas de escritório,Polycom ViaVideo™ Desktop Video Communications Unit,Caixa Grande
+17,48197,Não especificada,32,1282.49,Envio Normal,154.74,Anthony O'Donnell,West,Consumidor,Mobília,Móveis de escritório,Dana Halogen Swing-Arm Architect Lamp,Caixa Grande
+18,25031,Alta,24,4636.62,Envio Normal,-318.45,Sally Knutson,West,Consumidor,Mobília,Mesas,Hon 2111 Invitation™ Series Corner Table,Caixa Grande
+19,38758,Não especificada,7,497.2,Envio Normal,-219.61,Justin Hirsh,West,Consumidor,Insumos de Escritório,Eletrodomésticos,Euro Pro Shark Stick Mini Vacuum,Caixa Grande
+20,41895,Crítica,8,27663.92,Envio Normal,-391.92,Tony Chapman,West,Consumidor,Tecnologia,Copiadoras e Fax,Canon imageCLASS 2200 Advanced Copier,Caixa Grande
+21,53894,Crítica,37,2756.17,Envio Normal,-1561.72,Cathy Armstrong,Atlantic,Consumidor,Mobília,Mesas,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",Caixa Grande
+22,11969,Não especificada,16,1684.96,Envio Normal,-553.06,Ivan Liston,Atlantic,Consumidor,Insumos de Escritório,Armazenamento e Organização,"Carina Mini System Audio Rack, Model AR050B",Caixa Grande
+23,22368,Média,34,2788.04,Envio Normal,-849.18,Sarah Jordon,Atlantic,Consumidor,Insumos de Escritório,Armazenamento e Organização,"Carina 42""Hx23 3/4""W Media Storage Unit",Caixa Grande
+24,4612,Média,9,89.55,Envio Normal,-375.64,Jim Radford,Nunavut,Corporativo,Insumos de Escritório,Eletrodomésticos,Hoover Portapower™ Portable Vacuum,Caixa Grande
+25,7110,Baixa,22,6396.2,Envio Normal,1902.24,Grant Carroll,Nunavut,Corporativo,Mobília,Cadeiras e tapetes para cadeiras,SAFCO Arco Folding Chair,Caixa Grande
+26,9927,Alta,44,10087.6,Envio Normal,3387.35,Grant Carroll,Northwest Territories,Corporativo,Mobília,Cadeiras e tapetes para cadeiras,"Lifetime Advantage™ Folding Chairs, 4/Carton",Caixa Grande
+27,11456,Baixa,15,1519.9,Envio Normal,399.37,Doug Bickford,Northwest Territories,Corporativo,Mobília,Móveis de escritório,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,Caixa Grande
+28,24743,Baixa,26,3758.77,Envio Normal,753.61,Sylvia Foulston,Northwest Territories,Corporativo,Mobília,Cadeiras e tapetes para cadeiras,Hon Olson Stacker Stools,Caixa Grande
+29,30658,Média,35,17387.65,Envio Normal,6907.61,Charles McCrossin,Northwest Territories,Corporativo,Tecnologia,Copiadoras e Fax,Sharp AL-1530CS Digital Copier,Caixa Grande
+30,30658,Média,44,6040.22,Envio Normal,-942.5,Charles McCrossin,Northwest Territories,Corporativo,Insumos de Escritório,Armazenamento e Organização,"SAFCO Commercial Wire Shelving, Black",Caixa Grande
+31,31393,Crítica,4,97.57,Envio Normal,-27.31,Cindy Schnelling,Northwest Territories,Corporativo,Mobília,Móveis de escritório,Luxo Economy Swing Arm Lamp,Caixa Grande
+32,34631,Não especificada,19,12616.2,Envio Normal,2808.22,Brendan Dodson,Northwest Territories,Corporativo,Tecnologia,Copiadoras e Fax,Canon PC1060 Personal Laser Copier,Caixa Grande
+33,39683,Alta,41,8387.1,Envio Normal,2113.95,Jeremy Lonsdale,Northwest Territories,Corporativo,Mobília,Cadeiras e tapetes para cadeiras,"Lifetime Advantage™ Folding Chairs, 4/Carton",Caixa Grande
+34,42209,Alta,31,8901.78,Envio Normal,2795.36,Alan Barnes,Northwest Territories,Corporativo,Mobília,Cadeiras e tapetes para cadeiras,SAFCO Arco Folding Chair,Caixa Grande
+35,52964,Crítica,44,5735.79,Envio Normal,828.27,Jim Radford,Northwest Territories,Corporativo,Mobília,Móveis de escritório,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Caixa Grande
+36,4007,Alta,1,305.82,Envio Normal,-232.24,Jack Lebron,Atlantic,Corporativo,Insumos de Escritório,Armazenamento e Organização,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",Caixa Grande
+37,11362,Baixa,9,6420.87,Envio Normal,-690.21,Hilary Holden,Atlantic,Corporativo,Tecnologia,Copiadoras e Fax,Canon PC1060 Personal Laser Copier,Caixa Grande
+38,18788,Não especificada,27,566.12,Envio Normal,-19.33,Joy Smith,Atlantic,Corporativo,Mobília,Móveis de escritório,Telescoping Adjustable Floor Lamp,Caixa Grande
+39,20033,Crítica,5,2543.95,Envio Normal,-1011.32,Jack Lebron,Atlantic,Corporativo,Tecnologia,Copiadoras e Fax,Sharp AL-1530CS Digital Copier,Caixa Grande
+40,22469,Alta,24,1482.81,Envio Normal,-678.63,Jack Lebron,Atlantic,Corporativo,Insumos de Escritório,Eletrodomésticos,Euro Pro Shark Stick Mini Vacuum,Caixa Grande
+41,22469,Alta,23,6693.28,Envio Normal,40.32,Jack Lebron,Atlantic,Corporativo,Mobília,Mesas,Hon 5100 Series Wood Tables,Caixa Grande
+42,30243,Crítica,21,4242.76,Envio Normal,340.88,Hilary Holden,Atlantic,Corporativo,Tecnologia,Copiadoras e Fax,Canon PC-428 Personal Copier,Caixa Grande
+43,32199,Alta,1,3672.89,Envio Normal,-3061.82,Erica Bern,Atlantic,Corporativo,Tecnologia,Copiadoras e Fax,Canon imageCLASS 2200 Advanced Copier,Caixa Grande
+44,33763,Não especificada,23,10791.38,Envio Normal,-234.79,Evan Minnotte,Atlantic,Corporativo,Tecnologia,Copiadoras e Fax,Sharp AL-1530CS Digital Copier,Caixa Grande
+45,36677,Baixa,38,23255.61,Envio Normal,-734.33,Jack Lebron,Atlantic,Corporativo,Tecnologia,Copiadoras e Fax,Canon Image Class D660 Copier,Caixa Grande
+46,38310,Alta,4,62.45,Envio Normal,-141.76,Jack Lebron,Atlantic,Corporativo,Insumos de Escritório,Eletrodomésticos,Hoover® Commercial Lightweight Upright Vacuum,Caixa Grande
+47,47846,Alta,5,66.43,Envio Normal,-9.45,Hilary Holden,Atlantic,Corporativo,Mobília,Móveis de escritório,Dana Swing-Arm Lamps,Caixa Grande
+48,50404,Alta,10,1961.68,Envio Normal,-367.0,Guy Armstrong,Prarie,Corporativo,Mobília,Mesas,"Lesro Round Back Collection Coffee Table, End Table",Caixa Grande
+49,51461,Não especificada,43,858.53,Envio Normal,-97.54,Greg Guthrie,Prarie,Corporativo,Mobília,Móveis de escritório,Telescoping Adjustable Floor Lamp,Caixa Grande
+50,54501,Crítica,38,783.96,Envio Normal,-1195.29,Guy Armstrong,Prarie,Corporativo,Insumos de Escritório,Armazenamento e Organização,Tennsco Commercial Shelving,Caixa Grande
+51,55138,Alta,22,1132.54,Envio Normal,-628.38,Jim Sink,Prarie,Corporativo,Insumos de Escritório,Armazenamento e Organização,Tennsco Industrial Shelving,Caixa Grande
+52,44320,Média,49,7002.08,Envio Normal,-1640.51,Sally Knutson,West,Corporativo,Mobília,Mesas,Laminate Occasional Tables,Caixa Grande
+53,1925,Crítica,7,1874.37,Envio Normal,67.84,Brian Moss,West,Corporativo,Mobília,Cadeiras e tapetes para cadeiras,SAFCO Arco Folding Chair,Caixa Grande
+54,24070,Alta,3,431.29,Envio Normal,-164.59,Sonia Sunley,West,Corporativo,Mobília,Cadeiras e tapetes para cadeiras,Hon Olson Stacker Stools,Caixa Grande
+55,52035,Alta,29,20872.16,Envio Normal,-4437.91,Roy Skaria,West,Corporativo,Tecnologia,Copiadoras e Fax,Canon PC1060 Personal Laser Copier,Caixa Grande
+56,4261,Crítica,32,9235.97,Envio Normal,2848.17,Lela Donovan,West,Corporativo,Insumos de Escritório,Eletrodomésticos,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,Caixa Grande
+57,8992,Alta,3,441.43,Envio Normal,-154.45,Shahid Shariari,West,Corporativo,Mobília,Cadeiras e tapetes para cadeiras,Hon Olson Stacker Stools,Caixa Grande
+58,20961,Não especificada,34,6607.92,Envio Normal,1462.72,Lela Donovan,West,Corporativo,Tecnologia,Copiadoras e Fax,Canon PC-428 Personal Copier,Caixa Grande
+59,47750,Baixa,1,195.04,Envio Normal,-149.41,Sally Knutson,Atlantic,Corporativo,Insumos de Escritório,Armazenamento e Organização,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,Caixa Grande
+60,48230,Não especificada,31,2645.8,Envio Normal,-684.78,Dana Kaydos,Prarie,Corporativo,Insumos de Escritório,Armazenamento e Organização,"Carina 42""Hx23 3/4""W Media Storage Unit",Caixa Grande
+61,36449,Não especificada,6,90.75,Envio Normal,-26.39,Bruce Stewart,Ontario,Corporativo,Mobília,Móveis de escritório,"Tensor ""Hersey Kiss"" Styled Floor Lamp",Caixa Grande
+62,53152,Média,9,196.41,Envio Normal,27.91,Bill Eplett,Ontario,Corporativo,Mobília,Móveis de escritório,Telescoping Adjustable Floor Lamp,Caixa Grande
+63,15907,Alta,36,3722.29,Envio Expresso,950.68,Thomas Seio,Northwest Territories,Escritório em Casa,Mobília,Móveis de escritório,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",Caixa Média
+64,49952,Alta,12,1323.67,Envio Expresso,630.28,Beth Thompson,Northwest Territories,Corporativo,Mobília,Móveis de escritório,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",Caixa Média
+65,5153,Crítica,37,4896.93,Envio Expresso,1467.82,Helen Abelman,Atlantic,Escritório em Casa,Mobília,Cadeiras e tapetes para cadeiras,SAFCO Folding Chair Trolley,Caixa Média
+66,25315,Baixa,36,7783.36,Envio Expresso,3506.24,Joy Smith,Atlantic,Consumidor,Insumos de Escritório,Eletrodomésticos,Holmes Harmony HEPA Air Purifier for 17 x 20 Room,Caixa Média
+67,31941,Média,32,2564.45,Envio Expresso,650.73,Kimberly Carter,West,Pequenas Empresas,Insumos de Escritório,Eletrodomésticos,Honeywell Quietcare HEPA Air Cleaner,Caixa Média
+68,2848,Crítica,35,1476.39,Envio Expresso,-303.62,Emily Grady,West,Escritório em Casa,Mobília,Móveis de escritório,Eldon Advantage® Chair Mats for Low to Medium Pile Carpets,Caixa Média
+69,8801,Baixa,32,2593.08,Envio Expresso,-673.31,Thomas Brumley,West,Consumidor,Mobília,Móveis de escritório,Eldon Cleatmat Plus™ Chair Mats for High Pile Carpets,Caixa Média
+70,18432,Alta,15,217.66,Envio Expresso,-24.91,Art Ferguson,Atlantic,Corporativo,Insumos de Escritório,Eletrodomésticos,Holmes Odor Grabber,Caixa Média
+71,49441,Média,49,1981.26,Envio Expresso,100.8,Mary O'Rourke,Prarie,Escritório em Casa,Mobília,Móveis de escritório,"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",Caixa Média
+72,16165,Não especificada,24,1452.48,Envio Expresso,376.52,Hallie Redmond,Prarie,Pequenas Empresas,Mobília,Móveis de escritório,Deflect-o Glass Clear Studded Chair Mats,Caixa Média
+73,515,Não especificada,19,394.27,Envio Normal,30.94,Carlos Soltero,Nunavut,Consumidor,Insumos de Escritório,Eletrodomésticos,Holmes HEPA Air Purifier,Caixa Média
+74,7906,Média,37,1003.06,Envio Normal,271.78,Beth Paige,Nunavut,Consumidor,Insumos de Escritório,Eletrodomésticos,3M Office Air Cleaner,Caixa Média
+75,50754,Não especificada,9,64.0305,Envio Normal,-58.34,Becky Castell,Northwest Territories,Consumidor,Tecnologia,Telefones e comunicação,Bell Sonecor JB700 Caller ID,Caixa Média
+76,21223,Não especificada,8,435.29,Envio Normal,122.41,Harold Engle,Atlantic,Consumidor,Mobília,Móveis de escritório,"Deflect-o EconoMat Nonstudded, No Bevel Mat",Caixa Média
+77,53508,Alta,25,342.85,Envio Normal,-32.42,Joy Smith,Prarie,Consumidor,Tecnologia,Máquinas de escritório,Sharp EL500L Fraction Calculator,Caixa Média
+78,15621,Crítica,39,1105.66,Envio Normal,-136.2,Gene Hale,West,Consumidor,Insumos de Escritório,Armazenamento e Organização,Eldon Portable Mobile Manager,Caixa Média
+79,22980,Não especificada,17,224.09,Envio Normal,-27.92,Rob Haberlin,West,Consumidor,Insumos de Escritório,Armazenamento e Organização,Eldon Simplefile® Box Office®,Caixa Média
+80,59584,Média,7,1120.27,Envio Normal,16.81,Joy Smith,West,Consumidor,Tecnologia,Máquinas de escritório,Canon MP41DH Printing Calculator,Caixa Média
+81,47108,Não especificada,7,131.55,Envio Normal,-43.74,Justin Hirsh,Atlantic,Consumidor,Tecnologia,Máquinas de escritório,Canon P1-DHIII Palm Printing Calculator,Caixa Média
+82,51494,Crítica,42,493.56,Envio Normal,12.73,Justin Hirsh,Atlantic,Consumidor,Tecnologia,Máquinas de escritório,TI 30X Scientific Calculator,Caixa Média
+83,6116,Média,6,9620.82,Envio Normal,-1759.58,Barry Weirich,Nunavut,Corporativo,Insumos de Escritório,"Tesouras, réguas e aparadores",High Speed Automatic Electric Letter Opener,Caixa Média
+84,12289,Baixa,25,3019.41,Envio Normal,1269.05,Brendan Dodson,Northwest Territories,Corporativo,Tecnologia,Máquinas de escritório,Canon BP1200DH 12-Digit Bubble Jet Printing Calculator,Caixa Média
+85,12419,Crítica,12,22079.47,Envio Normal,5322.14,Sylvia Foulston,Northwest Territories,Corporativo,Tecnologia,Máquinas de escritório,Polycom ViewStation™ Adapter H323 Videoconferencing Unit,Caixa Média
+86,18144,Crítica,8,234.28,Envio Normal,-65.42,Dorothy Wardle,Northwest Territories,Corporativo,Insumos de Escritório,Armazenamento e Organização,Eldon Portable Mobile Manager,Caixa Média
+87,19686,Média,2,42.31,Envio Normal,-53.08,Alan Barnes,Northwest Territories,Corporativo,Tecnologia,Máquinas de escritório,Canon P1-DHIII Palm Printing Calculator,Caixa Média
+88,22469,Alta,44,275.91,Envio Normal,-162.37,Jack Lebron,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,Bell Sonecor JB700 Caller ID,Caixa Média
+89,27392,Baixa,37,5753.85,Envio Normal,2509.52,Frank Price,Northwest Territories,Corporativo,Tecnologia,Máquinas de escritório,Canon MP41DH Printing Calculator,Caixa Média
+90,27553,Média,16,2631.107,Envio Normal,297.11,Jim Radford,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,VTech VT20-2481 2.4GHz Two-Line Phone System w/Answering Machine,Caixa Média
+91,28135,Crítica,37,1601.24,Envio Normal,520.69,Jeremy Lonsdale,Northwest Territories,Corporativo,Insumos de Escritório,Eletrodomésticos,Bionaire Personal Warm Mist Humidifier/Vaporizer,Caixa Média
+92,32229,Alta,8,1219.19,Envio Normal,44.37,Carlos Daly,Northwest Territories,Corporativo,Tecnologia,Máquinas de escritório,Canon MP41DH Printing Calculator,Caixa Média
+93,37860,Média,1,104.85,Envio Normal,-98.31,Mike Pelletier,Northwest Territories,Corporativo,Mobília,Móveis de escritório,Eldon Cleatmat® Chair Mats for Medium Pile Carpets,Caixa Média
+94,39364,Alta,29,2754.93,Envio Normal,-1.33,Jamie Kunitz,Northwest Territories,Corporativo,Mobília,Móveis de escritório,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",Caixa Média
+95,43236,Não especificada,20,205.33,Envio Normal,10.68,Jamie Kunitz,Northwest Territories,Corporativo,Mobília,Móveis de escritório,DAX Solid Wood Frames,Caixa Média
+96,54274,Não especificada,20,1583.06,Envio Normal,328.0,Don Jones,Northwest Territories,Corporativo,Insumos de Escritório,Eletrodomésticos,Honeywell Quietcare HEPA Air Cleaner,Caixa Média
+97,57344,Alta,47,1060.0605,Envio Normal,-71.03,Sylvia Foulston,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,SouthWestern Bell FA970 Digital Answering Machine with Time/Day Stamp,Caixa Média
+98,11362,Baixa,32,3245.73,Envio Normal,569.57,Hilary Holden,Atlantic,Corporativo,Mobília,Móveis de escritório,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",Caixa Média
+99,13604,Não especificada,42,3609.88,Envio Normal,-1396.22,Erica Bern,Atlantic,Corporativo,Mobília,Móveis de escritório,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,Caixa Média
+100,19617,Baixa,38,952.47,Envio Normal,270.69,Jack Lebron,Atlantic,Corporativo,Tecnologia,Máquinas de escritório,TI 36X Solar Scientific Calculator,Caixa Média
+101,32869,Média,49,2470.84,Envio Normal,25.04,Christopher Schild,Atlantic,Corporativo,Mobília,Móveis de escritório,"Deflect-o EconoMat Nonstudded, No Bevel Mat",Caixa Média
+102,35300,Média,35,1445.6,Envio Normal,126.03,Dan Reichenbach,Atlantic,Corporativo,Mobília,Móveis de escritório,"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",Caixa Média
+103,42918,Alta,46,410.43,Envio Normal,-54.58,Logan Haushalter,Atlantic,Corporativo,Tecnologia,Máquinas de escritório,"Sharp EL501VB Scientific Calculator, Battery Operated, 10-Digit Display, Hard Case",Caixa Média
+104,47846,Alta,25,2674.18,Envio Normal,631.99,Hilary Holden,Atlantic,Corporativo,Mobília,Móveis de escritório,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",Caixa Média
+105,47846,Alta,50,5513.82,Envio Normal,1581.93,Hilary Holden,Atlantic,Corporativo,Mobília,Móveis de escritório,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",Caixa Média
+106,54501,Crítica,16,225.46,Envio Normal,-33.03,Guy Armstrong,Prarie,Corporativo,Tecnologia,Máquinas de escritório,Sharp EL500L Fraction Calculator,Caixa Média
+107,11782,Baixa,27,1541.781,Envio Normal,14.35,Marina Lichtenstein,West,Corporativo,Tecnologia,Telefones e comunicação,"Panasonic All Digital Answering System with Caller ID*, KX-TM150B",Caixa Média
+108,24576,Não especificada,29,531.063,Envio Normal,24.56,Luke Weiss,West,Corporativo,Tecnologia,Telefones e comunicação,1726 Digital Answering Machine,Caixa Média
+109,37281,Média,25,453.2455,Envio Normal,3.31,Roy Skaria,West,Corporativo,Tecnologia,Telefones e comunicação,1726 Digital Answering Machine,Caixa Média
+110,49761,Não especificada,45,1090.6,Envio Normal,300.91,Lisa DeCherney,West,Corporativo,Tecnologia,Máquinas de escritório,TI 36X Solar Scientific Calculator,Caixa Média
+111,19044,Baixa,32,4800.44,Envio Normal,1912.92,Rob Dowd,West,Corporativo,Tecnologia,Máquinas de escritório,Canon MP41DH Printing Calculator,Caixa Média
+112,38690,Baixa,28,697.5,Envio Normal,169.89,Shahid Shariari,West,Corporativo,Tecnologia,Máquinas de escritório,TI 36X Solar Scientific Calculator,Caixa Média
+113,50338,Não especificada,36,551.44,Envio Normal,28.7,Liz Price,Atlantic,Corporativo,Tecnologia,Máquinas de escritório,Sharp EL500L Fraction Calculator,Caixa Média
+114,14406,Média,37,5610.84,Envio Normal,2366.51,Charles Sheldon,Atlantic,Corporativo,Tecnologia,Máquinas de escritório,Canon MP41DH Printing Calculator,Caixa Média
+115,27396,Crítica,14,138.31,Envio Normal,-31.16,Sean Wendt,West,Corporativo,Mobília,Móveis de escritório,DAX Solid Wood Frames,Caixa Média
+116,41059,Média,45,12571.63,Envio Normal,5455.96,Lycoris Saunders,Ontario,Corporativo,Tecnologia,Máquinas de escritório,Polycom VoiceStation 100,Caixa Média
+117,47174,Crítica,42,642.1,Envio Normal,41.56,Maria Bertelson,Ontario,Corporativo,Tecnologia,Máquinas de escritório,Sharp EL500L Fraction Calculator,Caixa Média
+118,57153,Crítica,9,106.05,Envio Normal,-14.52,Meg O'Connel,Ontario,Corporativo,Insumos de Escritório,Eletrodomésticos,"Holmes Replacement Filter for HEPA Air Cleaner, Medium Room",Caixa Média
+119,59878,Alta,6,112.4,Envio Normal,-46.75,Ivan Gibson,Ontario,Corporativo,Tecnologia,Máquinas de escritório,Canon P1-DHIII Palm Printing Calculator,Caixa Média
+120,1218,Não especificada,3,46.46,Envio Normal,-25.13,Craig Carroll,Ontario,Corporativo,Insumos de Escritório,Eletrodomésticos,Holmes Odor Grabber,Caixa Média
+121,13410,Não especificada,29,701.94,Envio Normal,158.91,Bobby Odegard,Ontario,Corporativo,Tecnologia,Máquinas de escritório,TI 36X Solar Scientific Calculator,Caixa Média
+122,15808,Crítica,3,58.14,Envio Normal,-96.25,Bill Donatelli,Ontario,Corporativo,Tecnologia,Telefones e comunicação,1726 Digital Answering Machine,Caixa Média
+123,56101,Não especificada,1,21.45,Envio Normal,-7.22,Bill Donatelli,Ontario,Corporativo,Insumos de Escritório,Eletrodomésticos,Holmes Odor Grabber,Caixa Média
+124,1412,Não especificada,13,59.03,Envio Expresso,26.92,Carlos Soltero,Nunavut,Consumidor,Insumos de Escritório,Etiqueta,Avery 52,Caixa Pequena
+125,4676,Alta,3,49.59,Envio Expresso,-8.38,Annie Cyprus,Nunavut,Escritório em Casa,Insumos de Escritório,Papéis,Xerox 1881,Caixa Pequena
+126,6182,Baixa,18,130.32,Envio Expresso,-67.28,Grant Carroll,Nunavut,Corporativo,Insumos de Escritório,Papéis,Xerox 213,Caixa Pequena
+127,6916,Baixa,40,436.17,Envio Expresso,-141.27,Andrew Gjertsen,Nunavut,Consumidor,Insumos de Escritório,Armazenamento e Organização,Crate-A-Files™,Caixa Pequena
+128,8419,Crítica,19,368.04,Envio Expresso,70.39,Nicole Hansen,Nunavut,Pequenas Empresas,Insumos de Escritório,Papéis,Xerox 1936,Caixa Pequena
+129,8995,Alta,5,24.16,Envio Expresso,8.05,Beth Paige,Nunavut,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Staples® General Use 3-Ring Binders,Caixa Pequena
+130,8995,Alta,41,270.84,Envio Expresso,-78.02,Beth Paige,Northwest Territories,Consumidor,Insumos de Escritório,Papéis,Xerox 1904,Caixa Pequena
+131,9509,Não especificada,5,101.21,Envio Expresso,2.13,Joy Bell,Northwest Territories,Escritório em Casa,Insumos de Escritório,Papéis,Xerox 1887,Caixa Pequena
+132,9927,Alta,34,1608.08,Envio Expresso,-82.16,Grant Carroll,Northwest Territories,Corporativo,Tecnologia,Periféricos de Computador,Microsoft Natural Multimedia Keyboard,Caixa Pequena
+133,13795,Não especificada,23,275.16,Envio Expresso,43.35,Muhammed MacIntyre,Northwest Territories,Pequenas Empresas,Insumos de Escritório,Papéis,Xerox 188,Caixa Pequena
+134,16706,Alta,49,6175.776999999999,Envio Expresso,1881.58,Beth Thompson,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,T39m,Caixa Pequena
+135,19138,Baixa,30,387.0,Envio Expresso,-31.45,Carlos Daly,Northwest Territories,Escritório em Casa,Insumos de Escritório,Armazenamento e Organização,Recycled Eldon Regeneration Jumbo File,Caixa Pequena
+136,22501,Alta,2,30.83,Envio Expresso,7.27,Alan Barnes,Northwest Territories,Corporativo,Insumos de Escritório,Envelopes,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Caixa Pequena
+137,25318,Crítica,22,440.92,Envio Expresso,-65.18,Julia West,Northwest Territories,Pequenas Empresas,Mobília,Móveis de escritório,12-1/2 Diameter Round Wall Clock,Caixa Pequena
+138,25634,Não especificada,26,626.07,Envio Expresso,185.32,Mike Pelletier,Northwest Territories,Corporativo,Insumos de Escritório,Envelopes,"Recycled Interoffice Envelopes with String and Button Closure, 10 x 13",Caixa Pequena
+139,26370,Não especificada,20,660.27,Envio Expresso,63.83,Fred Wasserman,Northwest Territories,Escritório em Casa,Insumos de Escritório,Armazenamento e Organização,Home/Office Personal File Carts,Caixa Pequena
+140,31492,Crítica,34,971.95,Envio Expresso,-21.1,Nicole Hansen,Northwest Territories,Pequenas Empresas,Insumos de Escritório,Armazenamento e Organização,Acco Perma® 2700 Stacking Storage Drawers,Caixa Pequena
+141,31684,Crítica,28,456.91,Envio Expresso,-328.18,Susan Vittorini,Northwest Territories,Corporativo,Insumos de Escritório,Armazenamento e Organização,"Tenex File Box, Personal Filing Tote with Lid, Black",Caixa Pequena
+142,32193,Baixa,4,40.72,Envio Expresso,-10.25,Chad Cunningham,Northwest Territories,Pequenas Empresas,Insumos de Escritório,Papéis,HP Office Paper (20Lb. and 87 Bright),Caixa Pequena
+143,33703,Não especificada,4,63.52,Envio Expresso,-8.47,Carl Ludwig,Northwest Territories,Corporativo,Insumos de Escritório,Armazenamento e Organização,Portable Personal File Box,Caixa Pequena
+144,33894,Crítica,13,438.93,Envio Expresso,-119.02,Doug Bickford,Northwest Territories,Corporativo,Tecnologia,Periféricos de Computador,PC Concepts 116 Key Quantum 3000 Keyboard,Caixa Pequena
+145,37541,Média,10,550.61,Envio Expresso,98.32,Claudia Miner,Northwest Territories,Pequenas Empresas,Insumos de Escritório,Papéis,Xerox 1882,Caixa Pequena
+146,42561,Baixa,15,1062.9589999999998,Envio Expresso,298.48,Beth Paige,Northwest Territories,Consumidor,Tecnologia,Telefones e comunicação,Accessory12,Caixa Pequena
+147,43781,Não especificada,21,917.39,Envio Expresso,393.41,Claudia Miner,Northwest Territories,Pequenas Empresas,Insumos de Escritório,Fichários e acessórios de fichário,"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",Caixa Pequena
+148,44839,Crítica,27,899.97,Envio Expresso,-246.3,Julia West,Northwest Territories,Consumidor,Mobília,Móveis de escritório,"Linden® 12"" Wall Clock With Oak Frame",Caixa Pequena
+149,52193,Não especificada,1,17.89,Envio Expresso,10.51,Mike Pelletier,Northwest Territories,Corporativo,Insumos de Escritório,Etiqueta,Avery 492,Caixa Pequena
+150,52929,Alta,43,701.46,Envio Expresso,-90.14,Muhammed MacIntyre,Northwest Territories,Pequenas Empresas,Tecnologia,Máquinas de escritório,"AT&T Black Trimline Phone, Model 210",Caixa Pequena
+151,55715,Crítica,28,168.57,Envio Expresso,16.65,Eugene Barchas,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Wilson Jones 1"" Hanging DublLock® Ring Binders",Caixa Pequena
+152,57509,Baixa,39,199.39,Envio Expresso,101.13,Neola Schneider,Northwest Territories,Escritório em Casa,Insumos de Escritório,Etiqueta,Avery 493,Caixa Pequena
+153,58368,Alta,5,325.43,Envio Expresso,-76.11,Doug Bickford,Atlantic,Corporativo,Insumos de Escritório,Armazenamento e Organização,Fellowes Bankers Box™ Staxonsteel® Drawer File/Stacking System,Caixa Pequena
+154,59395,Crítica,20,963.3,Envio Expresso,367.12,Cari Schnelling,Atlantic,Pequenas Empresas,Insumos de Escritório,Papéis,Xerox 1885,Caixa Pequena
+155,11269,Baixa,39,2083.0525,Envio Expresso,354.96,Harold Engle,Atlantic,Escritório em Casa,Tecnologia,Telefones e comunicação,i1000,Caixa Pequena
+156,13927,Baixa,26,188.05,Envio Expresso,-21.41,Dan Reichenbach,Atlantic,Corporativo,Insumos de Escritório,Papéis,Xerox 1985,Caixa Pequena
+157,15463,Baixa,48,293.3,Envio Expresso,-193.48,Evan Minnotte,Atlantic,Corporativo,Insumos de Escritório,Papéis,Xerox 1920,Caixa Pequena
+158,22656,Não especificada,10,309.3,Envio Expresso,-77.89,Evan Minnotte,Atlantic,Corporativo,Tecnologia,Periféricos de Computador,Belkin ErgoBoard™ Keyboard,Caixa Pequena
+159,24038,Alta,15,896.1805,Envio Expresso,82.04,Jack Lebron,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,8860,Caixa Pequena
+160,24067,Alta,46,2640.6865,Envio Expresso,751.38,Frank Atkinson,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,252,Caixa Pequena
+161,24965,Baixa,6,2528.49,Envio Expresso,580.15,Jack Lebron,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC DocuBind 200 Manual Binding Machine,Caixa Pequena
+162,29382,Alta,34,684.66,Envio Expresso,35.09,Greg Guthrie,Atlantic,Pequenas Empresas,Mobília,Móveis de escritório,12-1/2 Diameter Round Wall Clock,Caixa Pequena
+163,36293,Média,25,165.36,Envio Expresso,-94.79,Carlos Soltero,Atlantic,Pequenas Empresas,Insumos de Escritório,Papéis,Xerox 220,Caixa Pequena
+164,40480,Crítica,19,7608.88,Envio Expresso,3049.45,Harold Engle,Atlantic,Escritório em Casa,Insumos de Escritório,Fichários e acessórios de fichário,GBC DocuBind 200 Manual Binding Machine,Caixa Pequena
+165,48067,Baixa,31,3229.66,Envio Expresso,695.06,Jennifer Braxton,Atlantic,Pequenas Empresas,Tecnologia,Telefones e comunicação,270c,Caixa Pequena
+166,48067,Baixa,24,4010.9375,Envio Expresso,630.7,Jennifer Braxton,Atlantic,Pequenas Empresas,Tecnologia,Telefones e comunicação,T28 WORLD,Caixa Pequena
+167,49029,Alta,49,8223.07,Envio Expresso,2549.4,Jim Sink,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,CF 888,Caixa Pequena
+168,49216,Alta,29,374.67,Envio Expresso,30.63,Noah Childs,Prarie,Escritório em Casa,Insumos de Escritório,Papéis,Staples Premium Bright 1-Part Blank Computer Paper,Caixa Pequena
+169,52482,Crítica,21,848.2,Envio Expresso,163.78,Greg Guthrie,Prarie,Corporativo,Insumos de Escritório,Eletrodomésticos,Belkin 8 Outlet Surge Protector,Caixa Pequena
+170,5318,Alta,29,5010.7415,Envio Expresso,1196.37,Matt Collins,West,Consumidor,Tecnologia,Telefones e comunicação,2160i,Caixa Pequena
+171,9123,Crítica,27,384.9,Envio Expresso,-108.28,Matt Collins,West,Consumidor,Insumos de Escritório,Armazenamento e Organização,Project Tote Personal File,Caixa Pequena
+172,11553,Média,28,1350.34,Envio Expresso,-517.17,Justin Knight,West,Corporativo,Insumos de Escritório,Armazenamento e Organização,"Gould Plastics 9-Pocket Panel Bin, 18-3/8w x 5-1/4d x 20-1/2h, Black",Caixa Pequena
+173,20448,Crítica,23,104.82,Envio Expresso,6.84,Luke Weiss,West,Corporativo,Insumos de Escritório,Envelopes,Colored Envelopes,Caixa Pequena
+174,28802,Alta,36,336.25,Envio Expresso,25.95,Sanjit Chand,West,Escritório em Casa,Insumos de Escritório,Papéis,Southworth 25% Cotton Antique Laid Paper & Envelopes,Caixa Pequena
+175,37315,Baixa,31,4726.595,Envio Expresso,1176.48,Luke Weiss,West,Corporativo,Tecnologia,Telefones e comunicação,5165,Caixa Pequena
+176,38565,Crítica,20,234.09,Envio Expresso,-11.69,Justin Knight,West,Corporativo,Mobília,Móveis de escritório,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",Caixa Pequena
+177,53863,Alta,46,7807.45,Envio Expresso,1660.15,Christina DeMoss,West,Escritório em Casa,Insumos de Escritório,Armazenamento e Organização,Fellowes Super Stor/Drawer® Files,Caixa Pequena
+178,57959,Média,48,1269.79,Envio Expresso,-65.33,Sally Knutson,West,Consumidor,Tecnologia,Periféricos de Computador,"Micro Innovations Micro 3000 Keyboard, Black",Caixa Pequena
+179,928,Baixa,21,1222.68,Envio Expresso,300.97,Anthony O'Donnell,West,Consumidor,Insumos de Escritório,Eletrodomésticos,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,Caixa Pequena
+180,928,Baixa,26,390.2,Envio Expresso,45.0,Anthony O'Donnell,West,Consumidor,Mobília,Móveis de escritório,DAX Clear Channel Poster Frame,Caixa Pequena
+181,5504,Alta,6,49.55,Envio Expresso,-20.33,Anna Andreadi,West,Pequenas Empresas,Insumos de Escritório,Papéis,HP Office Recycled Paper (20Lb. and 87 Bright),Caixa Pequena
+182,14852,Média,9,3800.4,Envio Expresso,1234.57,Angele Hood,West,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,GBC DocuBind 200 Manual Binding Machine,Caixa Pequena
+183,26978,Média,47,695.99,Envio Expresso,-157.44,Seth Vernon,West,Escritório em Casa,Insumos de Escritório,Armazenamento e Organização,Eldon Jumbo ProFile™ Portable File Boxes Graphite/Black,Caixa Pequena
+184,32871,Alta,42,939.77,Envio Expresso,9.72,Jim Karlsson,West,Pequenas Empresas,Tecnologia,Periféricos de Computador,Microsoft Internet Keyboard,Caixa Pequena
+185,39301,Média,16,2232.66,Envio Expresso,-521.09,Kelly Williams,West,Corporativo,Tecnologia,Periféricos de Computador,Adesso Programmable 142-Key Keyboard,Caixa Pequena
+186,50310,Média,42,1811.3,Envio Expresso,520.41,Sarah Foster,West,Corporativo,Insumos de Escritório,Eletrodomésticos,Belkin F9M820V08 8 Outlet Surge,Caixa Pequena
+187,52737,Não especificada,14,125.54,Envio Expresso,-15.74,Alex Avila,West,Escritório em Casa,Insumos de Escritório,Fichários e acessórios de fichário,GBC VeloBinder Strips,Caixa Pequena
+188,54560,Crítica,45,2404.599,Envio Expresso,496.89,Barbara Fisher,West,Pequenas Empresas,Tecnologia,Telefones e comunicação,MicroTAC 650,Caixa Pequena
+189,55777,Não especificada,1,65.7475,Envio Expresso,-252.48,Roy Skaria,West,Corporativo,Tecnologia,Telefones e comunicação,StarTAC 7760,Caixa Pequena
+190,56001,Baixa,17,118.36,Envio Expresso,-60.65,Alex Avila,West,Escritório em Casa,Insumos de Escritório,Papéis,Xerox 210,Caixa Pequena
+191,2720,Crítica,36,2051.016,Envio Expresso,483.97,Christopher Martinez,West,Pequenas Empresas,Tecnologia,Telefones e comunicação,StarTAC 7760,Caixa Pequena
+192,4642,Crítica,21,309.62,Envio Expresso,-80.2,Shahid Shariari,West,Corporativo,Insumos de Escritório,Armazenamento e Organização,Project Tote Personal File,Caixa Pequena
+193,8801,Baixa,25,2529.396,Envio Expresso,371.21,Thomas Brumley,West,Consumidor,Tecnologia,Telefones e comunicação,270c,Caixa Pequena
+194,11332,Baixa,23,1223.3795,Envio Expresso,83.57,Liz Price,West,Corporativo,Tecnologia,Telefones e comunicação,i500plus,Caixa Pequena
+195,17702,Alta,9,264.63,Envio Expresso,-66.78,Mark Cousins,West,Escritório em Casa,Tecnologia,Periféricos de Computador,Belkin MediaBoard 104- Keyboard,Caixa Pequena
+196,17831,Crítica,38,260.41,Envio Expresso,-45.75,Ricardo Emerson,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1947,Caixa Pequena
+197,20389,Alta,30,201.35,Envio Expresso,-107.37,Liz Price,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1920,Caixa Pequena
+198,22657,Alta,36,9544.18,Envio Expresso,3392.88,Ralph Kennedy,West,Corporativo,Tecnologia,Periféricos de Computador,Hayes Optima 56K V.90 Internal Voice Modem,Caixa Pequena
+199,25635,Crítica,14,633.08,Envio Expresso,145.48,Sally Knutson,West,Corporativo,Insumos de Escritório,Eletrodomésticos,Belkin F9M820V08 8 Outlet Surge,Caixa Pequena
+200,29185,Alta,5,217.85,Envio Expresso,-25.31,Rob Dowd,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1893,Caixa Pequena
+201,29985,Crítica,22,196.75,Envio Expresso,0.13,Khloe Miller,West,Corporativo,Mobília,Móveis de escritório,Staples Plastic Wall Frames,Caixa Pequena
+202,31872,Baixa,34,2833.19,Envio Expresso,1409.87,Vicky Freymann,West,Escritório em Casa,Insumos de Escritório,Envelopes,Ames Color-File® Green Diamond Border X-ray Mailers,Caixa Pequena
+203,32611,Média,18,986.24,Envio Expresso,68.9,Neil Knudson,West,Corporativo,Tecnologia,Periféricos de Computador,Nu-Form 106-Key Ergonomic Keyboard w/ Touchpad,Caixa Pequena
+204,36803,Não especificada,2,19.02,Envio Expresso,10.73,Ralph Kennedy,West,Corporativo,Mobília,Móveis de escritório,Eldon® Wave Desk Accessories,Caixa Pequena
+205,36805,Média,28,1546.3965,Envio Expresso,226.72,Shahid Shariari,West,Corporativo,Tecnologia,Telefones e comunicação,g520,Caixa Pequena
+206,44451,Crítica,4,103.9,Envio Expresso,-19.26,Khloe Miller,Atlantic,Escritório em Casa,Mobília,Móveis de escritório,"Seth Thomas 12"" Clock w/ Goldtone Case",Caixa Pequena
+207,45059,Não especificada,39,3401.8,Envio Expresso,-508.87,Tony Chapman,Atlantic,Consumidor,Insumos de Escritório,Armazenamento e Organização,Fellowes Stor/Drawer® Steel Plus™ Storage Drawers,Caixa Pequena
+208,45731,Crítica,19,146.63,Envio Expresso,-30.06,Gene Hale,Atlantic,Consumidor,Insumos de Escritório,Papéis,Xerox 1894,Caixa Pequena
+209,47108,Não especificada,26,258.11,Envio Expresso,9.95,Justin Hirsh,Atlantic,Consumidor,Insumos de Escritório,Papéis,Xerox 1896,Caixa Pequena
+210,47108,Não especificada,9,1288.515,Envio Expresso,-382.57,Justin Hirsh,Atlantic,Consumidor,Tecnologia,Telefones e comunicação,2180,Caixa Pequena
+211,50208,Média,4,38.76,Envio Expresso,-12.13,Sarah Bern,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Avery Hole Reinforcements,Caixa Pequena
+212,51525,Crítica,18,360.24,Envio Expresso,-36.24,Patrick O'Brill,Atlantic,Escritório em Casa,Tecnologia,Periféricos de Computador,Belkin 105-Key Black Keyboard,Caixa Pequena
+213,52933,Baixa,44,210.46,Envio Expresso,50.04,Liz Price,Atlantic,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Avery Non-Stick Binders,Caixa Pequena
+214,53894,Crítica,29,5159.3725,Envio Expresso,1252.48,Cathy Armstrong,Atlantic,Consumidor,Tecnologia,Telefones e comunicação,5125,Caixa Pequena
+215,56610,Média,20,857.95,Envio Expresso,51.85,Justin Hirsh,Atlantic,Consumidor,Tecnologia,Periféricos de Computador,"Fellowes Mobile Numeric Keypad, Graphite",Caixa Pequena
+216,3393,Alta,7,127.74,Envio Expresso,-5.57,Steve Carroll,Atlantic,Consumidor,Tecnologia,Periféricos de Computador,Logitech Access Keyboard,Caixa Pequena
+217,7015,Não especificada,42,7143.927,Envio Expresso,2374.73,Matt Abelman,Atlantic,Escritório em Casa,Tecnologia,Telefones e comunicação,T65,Caixa Pequena
+218,9925,Crítica,43,1751.68,Envio Expresso,771.83,Chad Sievert,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Avery Trapezoid Extra Heavy Duty 4"" Binders",Caixa Pequena
+219,20455,Crítica,7,381.1995,Envio Expresso,-233.56,Dana Kaydos,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,V 3600 Series,Caixa Pequena
+220,38625,Não especificada,28,2752.0,Envio Expresso,336.47,Chad Sievert,West,Corporativo,Tecnologia,Periféricos de Computador,US Robotics 56K V.92 External Faxmodem,Caixa Pequena
+221,41217,Alta,23,1314.64,Envio Expresso,575.38,Nathan Cano,West,Consumidor,Insumos de Escritório,Papéis,"Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box",Caixa Pequena
+222,41927,Não especificada,46,2332.23,Envio Expresso,1085.93,Matt Abelman,West,Escritório em Casa,Insumos de Escritório,Papéis,Xerox 1885,Caixa Pequena
+223,48230,Não especificada,39,1140.26,Envio Expresso,387.2,Dana Kaydos,Prarie,Corporativo,Mobília,Móveis de escritório,"Deflect-o SuperTray™ Unbreakable Stackable Tray, Letter, Black",Caixa Pequena
+224,53600,Média,8,55.59,Envio Expresso,-17.95,Roland Black,Prarie,Pequenas Empresas,Insumos de Escritório,Fichários e acessórios de fichário,Wilson Jones Impact Binders,Caixa Pequena
+225,54150,Crítica,12,2011.6355,Envio Expresso,-53.69,Bart Watters,Prarie,Corporativo,Tecnologia,Telefones e comunicação,CF 888,Caixa Pequena
+226,2147,Não especificada,15,605.1,Envio Expresso,92.81,Hallie Redmond,Prarie,Escritório em Casa,Insumos de Escritório,Eletrodomésticos,Belkin 8 Outlet Surge Protector,Caixa Pequena
+227,14503,Não especificada,14,438.47,Envio Expresso,157.89,Bruce Stewart,Prarie,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Surelock™ Post Binders,Caixa Pequena
+228,16165,Não especificada,4,136.68,Envio Expresso,-125.16,Hallie Redmond,Prarie,Pequenas Empresas,Tecnologia,Periféricos de Computador,Fellowes 17-key keypad for PS/2 interface,Caixa Pequena
+229,16165,Não especificada,19,3555.29,Envio Expresso,183.28,Hallie Redmond,Prarie,Pequenas Empresas,Insumos de Escritório,Armazenamento e Organização,Fellowes Staxonsteel® Drawer Files,Caixa Pequena
+230,24386,Alta,15,76.94,Envio Expresso,29.67,Bruce Stewart,Prarie,Corporativo,Insumos de Escritório,Etiqueta,Avery 491,Caixa Pequena
+231,26016,Alta,44,1642.642,Envio Expresso,314.84,Ken Lonsdale,Prarie,Consumidor,Tecnologia,Telefones e comunicação,KF 788,Caixa Pequena
+232,28130,Baixa,23,404.24,Envio Expresso,-76.99,Guy Thornton,Ontario,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",Caixa Pequena
+233,28130,Baixa,32,1381.88,Envio Expresso,598.2,Guy Thornton,Ontario,Corporativo,Mobília,Móveis de escritório,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",Caixa Pequena
+234,28290,Baixa,43,1307.35,Envio Expresso,-154.24,Maria Bertelson,Ontario,Escritório em Casa,Tecnologia,Periféricos de Computador,"Fellowes Internet Keyboard, Platinum",Caixa Pequena
+235,28290,Baixa,3,523.58,Envio Expresso,-179.36,Maria Bertelson,Ontario,Escritório em Casa,Insumos de Escritório,Armazenamento e Organização,Fellowes Super Stor/Drawer® Files,Caixa Pequena
+236,31238,Média,21,7512.03,Envio Expresso,2017.64,Joseph Airdo,Ontario,Corporativo,Insumos de Escritório,Eletrodomésticos,Hoover WindTunnel™ Plus Canister Vacuum,Caixa Pequena
+237,41059,Média,26,363.16,Envio Expresso,3.92,Lycoris Saunders,Ontario,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"GBC Laser Imprintable Binding System Covers, Desert Sand",Caixa Pequena
+238,43424,Não especificada,34,772.56,Envio Expresso,143.87,Maria Bertelson,Ontario,Escritório em Casa,Insumos de Escritório,Eletrodomésticos,Belkin F5C206VTEL 6 Outlet Surge,Caixa Pequena
+239,46243,Baixa,31,614.35,Envio Expresso,78.89,Maria Bertelson,Ontario,Corporativo,Insumos de Escritório,Papéis,Computer Printout Paper with Letter-Trim Perforations,Caixa Pequena
+240,51361,Baixa,14,76.06,Envio Expresso,-35.99,Meg O'Connel,Ontario,Corporativo,Insumos de Escritório,Papéis,Xerox 199,Caixa Pequena
+241,51780,Baixa,42,372.69,Envio Expresso,-177.03,Rob Beeghly,Ontario,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,"Fellowes Twister Kit, Gray/Clear, 3/pkg",Caixa Pequena
+242,59909,Baixa,46,411.56,Envio Expresso,-188.02,Christina Vanderzanden,Ontario,Pequenas Empresas,Insumos de Escritório,Armazenamento e Organização,Staples File Caddy,Caixa Pequena
+243,15808,Crítica,42,906.64,Envio Expresso,-148.93,Bill Donatelli,Ontario,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Avery Flip-Chart Easel Binder, Black",Caixa Pequena
+244,21091,Alta,32,270.73,Envio Expresso,-54.57,Bill Donatelli,Ontario,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC Instant Index™ System for Binding Systems,Caixa Pequena
+245,28420,Baixa,2,45.64,Envio Expresso,-0.11,Bill Donatelli,Ontario,Corporativo,Insumos de Escritório,Envelopes,Park Ridge™ Embossed Executive Business Envelopes,Caixa Pequena
+246,33255,Crítica,19,108.21,Envio Expresso,-50.02,Russell Applegate,Ontario,Escritório em Casa,Insumos de Escritório,Papéis,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Caixa Pequena
+247,35584,Média,15,150.33,Envio Expresso,-98.23,Joel Jenkins,Ontario,Corporativo,Insumos de Escritório,Armazenamento e Organização,Filing/Storage Totes and Swivel Casters,Caixa Pequena
+248,35908,Não especificada,45,529.28,Envio Expresso,-30.27,Brad Eason,Ontario,Pequenas Empresas,Insumos de Escritório,Armazenamento e Organização,Portable Personal File Box,Caixa Pequena
+249,293,Alta,27,244.57,Envio Normal,46.71,Barry French,Nunavut,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,"Cardinal Slant-D® Ring Binder, Heavy Gauge Vinyl",Caixa Pequena
+250,1792,Baixa,28,370.48,Envio Normal,-5.45,Carlos Soltero,Nunavut,Consumidor,Insumos de Escritório,Armazenamento e Organização,"Tenex Personal Project File with Scoop Front Design, Black",Caixa Pequena
+251,6980,Não especificada,18,136.29,Envio Normal,-77.28,Ralph Knight,Nunavut,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,"Angle-D Binders with Locking Rings, Label Holders",Caixa Pequena
+252,8995,Alta,42,266.36,Envio Normal,-191.28,Beth Paige,Northwest Territories,Consumidor,Insumos de Escritório,Papéis,Xerox 217,Caixa Pequena
+253,10945,Média,14,1170.025,Envio Normal,4.22,Ralph Knight,Northwest Territories,Consumidor,Tecnologia,Telefones e comunicação,600 Series Flip,Caixa Pequena
+254,11911,Crítica,25,397.84,Envio Normal,-14.75,Edward Hooks,Northwest Territories,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,"GBC Twin Loop™ Wire Binding Elements, 9/16"" Spine, Black",Caixa Pequena
+255,14726,Baixa,15,310.87,Envio Normal,-21.48,Ralph Knight,Northwest Territories,Consumidor,Tecnologia,Periféricos de Computador,"Fellowes Basic 104-Key Keyboard, Platinum",Caixa Pequena
+256,16932,Crítica,25,144.84,Envio Normal,-120.99,Carlos Soltero,Northwest Territories,Consumidor,Insumos de Escritório,Papéis,Xerox 1924,Caixa Pequena
+257,21889,Baixa,21,1049.79,Envio Normal,135.79,Becky Castell,Northwest Territories,Consumidor,Mobília,Móveis de escritório,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",Caixa Pequena
+258,21889,Baixa,16,817.18,Envio Normal,103.38,Becky Castell,Northwest Territories,Consumidor,Insumos de Escritório,Armazenamento e Organização,Recycled Steel Personal File for Standard File Folders,Caixa Pequena
+259,22532,Crítica,13,121.66,Envio Normal,-11.8,Carlos Soltero,Northwest Territories,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,GBC Standard Plastic Binding Systems Combs,Caixa Pequena
+260,27109,Crítica,48,538.22,Envio Normal,-154.66,Barry French,Northwest Territories,Consumidor,Tecnologia,Periféricos de Computador,Micro Innovations 104 Keyboard,Caixa Pequena
+261,28675,Crítica,15,822.8425,Envio Normal,4.39,Ralph Knight,Northwest Territories,Consumidor,Tecnologia,Telefones e comunicação,252,Caixa Pequena
+262,29287,Alta,50,281.39,Envio Normal,-106.4,Edward Hooks,Northwest Territories,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Binder Posts,Caixa Pequena
+263,38884,Alta,47,256.0,Envio Normal,-119.84,Edward Hooks,Northwest Territories,Consumidor,Insumos de Escritório,Papéis,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Caixa Pequena
+264,40160,Crítica,23,1404.22,Envio Normal,202.87,Julia West,Northwest Territories,Consumidor,Mobília,Móveis de escritório,"Howard Miller 16"" Diameter Gallery Wall Clock",Caixa Pequena
+265,45217,Não especificada,40,6789.9275,Envio Normal,1864.66,Ralph Knight,Northwest Territories,Consumidor,Tecnologia,Telefones e comunicação,2160i,Caixa Pequena
+266,55363,Alta,14,2232.06,Envio Normal,542.16,Ralph Arnett,Northwest Territories,Consumidor,Insumos de Escritório,Armazenamento e Organização,"Dual Level, Single-Width Filing Carts",Caixa Pequena
+267,57127,Baixa,13,735.54,Envio Normal,171.82,Ralph Knight,Northwest Territories,Consumidor,Insumos de Escritório,Papéis,Xerox 194,Caixa Pequena
+268,58055,Crítica,26,208.6,Envio Normal,-56.45,Julia West,Atlantic,Consumidor,Mobília,Móveis de escritório,"Eldon® Expressions™ Wood Desk Accessories, Oak",Caixa Pequena
+269,59202,Média,7,83.81,Envio Normal,21.92,Andrew Gjertsen,Atlantic,Consumidor,Insumos de Escritório,Etiqueta,Avery 485,Caixa Pequena
+270,59585,Alta,45,712.04,Envio Normal,-110.93,Edward Hooks,Atlantic,Consumidor,Tecnologia,Máquinas de escritório,"AT&T Black Trimline Phone, Model 210",Caixa Pequena
+271,645,Alta,42,557.85,Envio Normal,89.45,Harold Engle,Atlantic,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,GBC Binding covers,Caixa Pequena
+272,13120,Baixa,46,590.43,Envio Normal,82.59,Joy Smith,Atlantic,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,GBC Binding covers,Caixa Pequena
+273,13120,Baixa,8,216.33,Envio Normal,-17.37,Joy Smith,Atlantic,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,GBC Standard Therm-A-Bind Covers,Caixa Pequena
+274,15618,Média,9,50.93,Envio Normal,-34.98,Joy Smith,Atlantic,Consumidor,Insumos de Escritório,Papéis,Xerox 1928,Caixa Pequena
+275,15618,Média,44,792.8,Envio Normal,26.27,Joy Smith,Atlantic,Consumidor,Insumos de Escritório,Papéis,Xerox 1939,Caixa Pequena
+276,15618,Média,14,782.4505,Envio Normal,-11.4,Joy Smith,Atlantic,Consumidor,Tecnologia,Telefones e comunicação,StarTAC 7760,Caixa Pequena
+277,16419,Não especificada,43,241.19,Envio Normal,-103.65,Joy Smith,Atlantic,Consumidor,Insumos de Escritório,Papéis,Xerox 1978,Caixa Pequena
+278,30499,Alta,16,92.06,Envio Normal,5.66,Carlos Soltero,Atlantic,Consumidor,Insumos de Escritório,Envelopes,Wausau Papers Astrobrights® Colored Envelopes,Caixa Pequena
+279,34978,Alta,49,165.51,Envio Normal,-269.91,Carlos Soltero,Atlantic,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Self-Adhesive Ring Binder Labels,Caixa Pequena
+280,35558,Crítica,2,34.88,Envio Normal,-22.12,Carlos Soltero,Atlantic,Consumidor,Mobília,Móveis de escritório,9-3/4 Diameter Round Wall Clock,Caixa Pequena
+281,41570,Não especificada,24,2289.92,Envio Normal,1037.55,Harold Engle,Atlantic,Consumidor,Insumos de Escritório,Papéis,Xerox 1941,Caixa Pequena
+282,46119,Crítica,23,93.05,Envio Normal,15.27,Carlos Soltero,Atlantic,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Durable Pressboard Binders,Caixa Pequena
+283,52130,Baixa,13,63.33,Envio Normal,-39.96,Carlos Soltero,Prarie,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,ACCOHIDE® Binder by Acco,Caixa Pequena
+284,52130,Baixa,36,1436.55,Envio Normal,-4.01,Carlos Soltero,Prarie,Consumidor,Mobília,Móveis de escritório,Eldon Executive Woodline II Cherry Finish Desk Accessories,Caixa Pequena
+285,53508,Alta,13,1072.22,Envio Normal,149.64,Joy Smith,Prarie,Consumidor,Tecnologia,Periféricos de Computador,Logitech Cordless Navigator Duo,Caixa Pequena
+286,450,Não especificada,35,543.72,Envio Normal,-211.13,Matt Collins,West,Consumidor,Insumos de Escritório,Armazenamento e Organização,Hanging Personal Folder File,Caixa Pequena
+287,1028,Alta,11,2021.1470000000002,Envio Normal,-60.39,Matt Collins,West,Consumidor,Tecnologia,Telefones e comunicação,3285,Caixa Pequena
+288,2883,Baixa,34,2154.34,Envio Normal,177.66,Rob Haberlin,West,Consumidor,Insumos de Escritório,Armazenamento e Organização,Fellowes Bankers Box™ Staxonsteel® Drawer File/Stacking System,Caixa Pequena
+289,5318,Alta,8,1042.25,Envio Normal,195.16,Matt Collins,West,Consumidor,Insumos de Escritório,Eletrodomésticos,Kensington 7 Outlet MasterPiece® HOMEOFFICE Power Control Center,Caixa Pequena
+290,6115,Média,25,409.08,Envio Normal,78.86,Matt Collins,West,Consumidor,Mobília,Móveis de escritório,"Seth Thomas 13 1/2"" Wall Clock",Caixa Pequena
+291,9792,Baixa,14,84.09,Envio Normal,-73.14,Sally Knutson,West,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,3M Organizer Strips,Caixa Pequena
+292,14275,Baixa,20,42.22,Envio Normal,-7.73,Gene Hale,West,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Economy Binders,Caixa Pequena
+293,14535,Não especificada,22,245.96,Envio Normal,-33.82,Gene Hale,West,Consumidor,Insumos de Escritório,Armazenamento e Organização,X-Rack™ File for Hanging Folders,Caixa Pequena
+294,17926,Crítica,37,608.33,Envio Normal,-70.04,Sally Knutson,West,Consumidor,Insumos de Escritório,Armazenamento e Organização,Eldon Jumbo ProFile™ Portable File Boxes Graphite/Black,Caixa Pequena
+295,49634,Não especificada,45,132.31,Envio Normal,10.91,Sally Knutson,West,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Avery Durable Binders,Caixa Pequena
+296,53825,Baixa,36,1646.05,Envio Normal,649.8,Joy Smith,West,Consumidor,Insumos de Escritório,Papéis,Xerox 1885,Caixa Pequena
+297,21509,Alta,13,47.93,Envio Normal,15.82,Dennis Bolton,West,Consumidor,Insumos de Escritório,Etiqueta,Avery 487,Caixa Pequena
+298,52326,Baixa,41,152.28,Envio Normal,-154.81,Dennis Bolton,West,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Dark Blue",Caixa Pequena
+299,54947,Não especificada,42,1498.46,Envio Normal,565.37,Peter Buhler,West,Consumidor,Mobília,Móveis de escritório,Hand-Finished Solid Wood Document Frame,Caixa Pequena
+300,4257,Média,45,253.89,Envio Normal,-83.66,Liz Price,West,Consumidor,Insumos de Escritório,Envelopes,Staples Brown Kraft Recycled Clasp Envelopes,Caixa Pequena
+301,5698,Média,15,297.05,Envio Normal,-16.89,Kristina Nunn,West,Consumidor,Insumos de Escritório,Eletrodomésticos,Kensington 6 Outlet Guardian Standard Surge Protector,Caixa Pequena
+302,5698,Média,7,108.26,Envio Normal,25.51,Kristina Nunn,West,Consumidor,Insumos de Escritório,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",Caixa Pequena
+303,11301,Média,29,1194.96,Envio Normal,107.45,Tony Chapman,West,Consumidor,Tecnologia,Periféricos de Computador,Microsoft Natural Keyboard Elite,Caixa Pequena
+304,16161,Média,49,2692.6895,Envio Normal,768.32,Kristina Nunn,West,Consumidor,Tecnologia,Telefones e comunicação,6162i,Caixa Pequena
+305,20038,Baixa,42,173.44,Envio Normal,-172.4,Sally Knutson,West,Consumidor,Mobília,Móveis de escritório,Eldon Image Series Black Desk Accessories,Caixa Pequena
+306,20422,Alta,5,15.38,Envio Normal,1.61,Gene Hale,West,Consumidor,Insumos de Escritório,Etiqueta,Avery 498,Caixa Pequena
+307,24450,Crítica,37,443.35,Envio Normal,-21.73,Kristina Nunn,West,Consumidor,Insumos de Escritório,Eletrodomésticos,Staples 6 Outlet Surge,Caixa Pequena
+308,24450,Crítica,4,30.85,Envio Normal,-12.88,Kristina Nunn,West,Consumidor,Insumos de Escritório,Papéis,Xerox 1903,Caixa Pequena
+309,25031,Alta,20,100.11,Envio Normal,-41.7,Sally Knutson,West,Consumidor,Insumos de Escritório,Papéis,Staples Copy Paper (20Lb. and 84 Bright),Caixa Pequena
+310,25830,Baixa,5,25.34,Envio Normal,-21.29,Justin Hirsh,West,Consumidor,Insumos de Escritório,Eletrodomésticos,Eureka Disposable Bags for Sanitaire® Vibra Groomer I® Upright Vac,Caixa Pequena
+311,25830,Baixa,11,178.57,Envio Normal,-37.39,Justin Hirsh,West,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Recycled Premium Regency Composition Covers,Caixa Pequena
+312,30147,Não especificada,37,740.14,Envio Normal,29.73,Cathy Armstrong,West,Consumidor,Mobília,Móveis de escritório,12-1/2 Diameter Round Wall Clock,Caixa Pequena
+313,30310,Média,21,2024.0285,Envio Normal,4.9,Thomas Brumley,West,Consumidor,Tecnologia,Telefones e comunicação,StarTAC 6500,Caixa Pequena
+314,35649,Média,9,43.26,Envio Normal,3.9,Justin Hirsh,West,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Tuff Stuff™ Recycled Round Ring Binders,Caixa Pequena
+315,35649,Média,25,174.03,Envio Normal,-42.37,Justin Hirsh,West,Consumidor,Insumos de Escritório,Papéis,Xerox 1994,Caixa Pequena
+316,41412,Não especificada,47,263.81,Envio Normal,-237.54,Shahid Shariari,West,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,3M Organizer Strips,Caixa Pequena
+317,42339,Crítica,31,206.54,Envio Normal,-178.82,Cathy Armstrong,West,Consumidor,Insumos de Escritório,Papéis,Xerox 1993,Caixa Pequena
+318,43111,Alta,27,4722.83,Envio Normal,1749.78,Sally Knutson,West,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,GBC DocuBind P100 Manual Binding Machine,Caixa Pequena
+319,47520,Não especificada,36,277.88,Envio Normal,-64.41,Liz Price,Atlantic,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,GBC VeloBinder Strips,Caixa Pequena
+320,47520,Não especificada,47,925.3,Envio Normal,257.31,Liz Price,Atlantic,Consumidor,Insumos de Escritório,Papéis,Xerox Blank Computer Paper,Caixa Pequena
+321,49088,Crítica,31,1295.54,Envio Normal,214.23,Kristina Nunn,Atlantic,Consumidor,Insumos de Escritório,Papéis,Xerox 1893,Caixa Pequena
+322,49634,Não especificada,39,403.73,Envio Normal,-44.13,Sally Knutson,Atlantic,Consumidor,Insumos de Escritório,Eletrodomésticos,Belkin 6 Outlet Metallic Surge Strip,Caixa Pequena
+323,53025,Crítica,32,195.57,Envio Normal,-132.93,Justin Hirsh,Atlantic,Consumidor,Insumos de Escritório,Papéis,Xerox 1920,Caixa Pequena
+324,54304,Alta,11,558.62,Envio Normal,118.32,Justin Hirsh,Atlantic,Consumidor,Insumos de Escritório,Eletrodomésticos,Belkin Premiere Surge Master II 8-outlet surge protector,Caixa Pequena
+325,56321,Crítica,24,135.88,Envio Normal,-75.39,Shahid Shariari,Atlantic,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Wilson Jones “Snap” Scratch Pad Binder Tool for Ring Binders,Caixa Pequena
+326,57671,Não especificada,6,22.78,Envio Normal,3.96,Liz Price,Atlantic,Consumidor,Insumos de Escritório,Etiqueta,Avery 510,Caixa Pequena
+327,58978,Baixa,13,75.89,Envio Normal,-31.01,Kristina Nunn,Atlantic,Consumidor,Insumos de Escritório,Papéis,Xerox 193,Caixa Pequena
+328,5092,Baixa,25,978.77,Envio Normal,220.91,John Castell,Atlantic,Consumidor,Insumos de Escritório,Papéis,Xerox 1892,Caixa Pequena
+329,8257,Baixa,18,881.32,Envio Normal,373.67,David Philippe,Atlantic,Consumidor,Insumos de Escritório,Papéis,Xerox 1910,Caixa Pequena
+330,9285,Crítica,3,124.81,Envio Normal,-11.94,David Philippe,Atlantic,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",Caixa Pequena
+331,20642,Alta,32,135.2,Envio Normal,59.4,Darren Koutras,Atlantic,Consumidor,Insumos de Escritório,Etiqueta,Avery 506,Caixa Pequena
+332,30467,Crítica,5,2019.65,Envio Normal,289.88,John Castell,West,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,GBC DocuBind 200 Manual Binding Machine,Caixa Pequena
+333,33893,Não especificada,6,232.21,Envio Normal,-14.03,Sarah Jordon,West,Consumidor,Insumos de Escritório,Envelopes,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,Caixa Pequena
+334,38656,Baixa,13,64.46,Envio Normal,25.16,John Castell,West,Consumidor,Insumos de Escritório,Etiqueta,Avery 478,Caixa Pequena
+335,44610,Alta,31,127.9,Envio Normal,54.21,Hunter Lopez,West,Consumidor,Insumos de Escritório,Etiqueta,Avery 506,Caixa Pequena
+336,53667,Média,33,112.36,Envio Normal,-159.74,Steve Carroll,Prarie,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Cardinal Poly Pocket Divider Pockets for Ring Binders,Caixa Pequena
+337,53667,Média,16,481.04900000000004,Envio Normal,46.51,Steve Carroll,Prarie,Consumidor,Tecnologia,Telefones e comunicação,Accessory35,Caixa Pequena
+338,55429,Alta,43,260.59,Envio Normal,-157.76,Nathan Cano,Prarie,Consumidor,Insumos de Escritório,Papéis,Xerox 214,Caixa Pequena
+339,3463,Crítica,43,264.75,Envio Normal,-212.51,Julia Dunbar,Prarie,Consumidor,Insumos de Escritório,Papéis,Xerox 212,Caixa Pequena
+340,5538,Crítica,43,1281.28,Envio Normal,415.85,Julia Dunbar,Prarie,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Binding Machine Supplies,Caixa Pequena
+341,5538,Crítica,4,430.848,Envio Normal,-492.77,Julia Dunbar,Prarie,Consumidor,Tecnologia,Telefones e comunicação,8290,Caixa Pequena
+342,9155,Crítica,17,518.8,Envio Normal,54.63,Ken Lonsdale,Prarie,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,GBC Linen Binding Covers,Caixa Pequena
+343,12292,Não especificada,32,824.24,Envio Normal,-127.23,Ken Lonsdale,Prarie,Consumidor,Tecnologia,Periféricos de Computador,"Micro Innovations Micro 3000 Keyboard, Black",Caixa Pequena
+344,23713,Não especificada,38,3701.5205,Envio Normal,894.06,Katrina Bavinger,Prarie,Consumidor,Tecnologia,Telefones e comunicação,8890,Caixa Pequena
+345,26016,Alta,2,154.94,Envio Normal,-358.43,Ken Lonsdale,Prarie,Consumidor,Tecnologia,Periféricos de Computador,Micro Innovations Media Access Pro Keyboard,Caixa Pequena
+346,32452,Média,3,8.6,Envio Normal,-2.03,Joseph Airdo,Ontario,Consumidor,Insumos de Escritório,Etiqueta,Avery 507,Caixa Pequena
+347,33378,Alta,25,945.36,Envio Normal,219.85,Joseph Airdo,Ontario,Consumidor,Insumos de Escritório,Envelopes,"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",Caixa Pequena
+348,38240,Alta,4,41.53,Envio Normal,-15.53,Ken Lonsdale,Ontario,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Avery Printable Repositionable Plastic Tabs,Caixa Pequena
+349,38917,Baixa,11,618.1965,Envio Normal,-132.53,Joseph Airdo,Ontario,Consumidor,Tecnologia,Telefones e comunicação,6120,Caixa Pequena
+350,50336,Não especificada,9,58.98,Envio Normal,-17.79,Joseph Airdo,Ontario,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,Avery Binding System Hidden Tab™ Executive Style Index Sets,Caixa Pequena
+351,52071,Não especificada,14,136.85,Envio Normal,-4.43,Annie Thurman,Ontario,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,GBC Standard Plastic Binding Systems Combs,Caixa Pequena
+352,52071,Não especificada,1,12.74,Envio Normal,-11.39,Annie Thurman,Ontario,Consumidor,Mobília,Móveis de escritório,Staples Plastic Wall Frames,Caixa Pequena
+353,26759,Não especificada,30,251.11,Envio Normal,10.04,Bobby Odegard,Ontario,Consumidor,Insumos de Escritório,Fichários e acessórios de fichário,XtraLife® ClearVue™ Slant-D® Ring Binders by Cardinal,Caixa Pequena
+354,483,Alta,30,4965.7595,Envio Normal,1198.97,Clay Rozendal,Nunavut,Corporativo,Tecnologia,Telefones e comunicação,R380,Caixa Pequena
+355,613,Alta,12,93.54,Envio Normal,-54.04,Carl Jackson,Nunavut,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Angle-D Binders with Locking Rings, Label Holders",Caixa Pequena
+356,613,Alta,22,905.08,Envio Normal,127.7,Carl Jackson,Nunavut,Corporativo,Insumos de Escritório,Armazenamento e Organização,"SAFCO Mobile Desk Side File, Wire Frame",Caixa Pequena
+357,1344,Baixa,15,834.904,Envio Normal,-11.68,Jim Radford,Nunavut,Corporativo,Tecnologia,Telefones e comunicação,g520,Caixa Pequena
+358,1344,Baixa,18,2480.9205,Envio Normal,313.58,Jim Radford,Nunavut,Corporativo,Tecnologia,Telefones e comunicação,LX 788,Caixa Pequena
+359,1539,Baixa,33,511.83,Envio Normal,-172.88,Carl Ludwig,Nunavut,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",Caixa Pequena
+360,2532,Alta,39,282.07,Envio Normal,140.01,Alan Barnes,Nunavut,Corporativo,Insumos de Escritório,Etiqueta,Self-Adhesive Address Labels for Typewriters by Universal,Caixa Pequena
+361,2791,Alta,47,191.67,Envio Normal,-236.27,Eugene Barchas,Nunavut,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Avery Binder Labels,Caixa Pequena
+362,2791,Alta,18,507.64,Envio Normal,118.94,Eugene Barchas,Nunavut,Corporativo,Insumos de Escritório,Papéis,"IBM Multi-Purpose Copy Paper, 8 1/2 x 11"", Case",Caixa Pequena
+363,3908,Média,8,820.284,Envio Normal,-180.2,Dorothy Wardle,Nunavut,Corporativo,Tecnologia,Telefones e comunicação,6160,Caixa Pequena
+364,4132,Não especificada,5,14.76,Envio Normal,1.32,Aaron Bergman,Nunavut,Corporativo,Insumos de Escritório,Etiqueta,Avery 49,Caixa Pequena
+365,5569,Não especificada,12,118.97,Envio Normal,-0.06,Frank Price,Nunavut,Corporativo,Mobília,Móveis de escritório,"Eldon Expressions™ Desk Accessory, Wood Pencil Holder, Oak",Caixa Pequena
+366,5894,Alta,7,384.33,Envio Normal,87.68,Ann Chong,Nunavut,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Avery Arch Ring Binders,Caixa Pequena
+367,5894,Alta,3,239.03,Envio Normal,-68.22,Ann Chong,Nunavut,Corporativo,Insumos de Escritório,Eletrodomésticos,APC 7 Outlet Network SurgeArrest Surge Protector,Caixa Pequena
+368,6182,Baixa,40,255.48,Envio Normal,-116.79,Grant Carroll,Nunavut,Corporativo,Insumos de Escritório,Papéis,Xerox 1966,Caixa Pequena
+369,6982,Não especificada,41,844.09,Envio Normal,52.56,Dorothy Wardle,Nunavut,Corporativo,Mobília,Móveis de escritório,12-1/2 Diameter Round Wall Clock,Caixa Pequena
+370,7430,Média,50,751.77,Envio Normal,353.2,Barry Weirich,Nunavut,Corporativo,Insumos de Escritório,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",Caixa Pequena
+371,9126,Média,47,2799.7,Envio Normal,884.08,Sylvia Foulston,Northwest Territories,Corporativo,Insumos de Escritório,Eletrodomésticos,"Acco Smartsocket™ Table Surge Protector, 6 Color-Coded Adapter Outlets",Caixa Pequena
+372,9763,Média,44,176.26,Envio Normal,75.13,Alan Barnes,Northwest Territories,Corporativo,Insumos de Escritório,Etiqueta,Avery 506,Caixa Pequena
+373,10437,Crítica,50,820.52,Envio Normal,-191.22,Don Jones,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",Caixa Pequena
+374,10535,Baixa,25,854.88,Envio Normal,-44.14,Doug Bickford,Northwest Territories,Corporativo,Mobília,Móveis de escritório,"Linden® 12"" Wall Clock With Oak Frame",Caixa Pequena
+375,11202,Média,8,339.81,Envio Normal,79.59,Barry Weirich,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Satellite Sectional Post Binders,Caixa Pequena
+376,11941,Crítica,4,73.07,Envio Normal,-41.01,Jamie Kunitz,Northwest Territories,Corporativo,Insumos de Escritório,Armazenamento e Organização,Hanging Personal Folder File,Caixa Pequena
+377,12352,Média,5,36.86,Envio Normal,-32.82,Hunter Glantz,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Fellowes Black Plastic Comb Bindings,Caixa Pequena
+378,12544,Baixa,34,74.3,Envio Normal,-129.01,Jim Radford,Northwest Territories,Corporativo,Mobília,Móveis de escritório,Eldon® Wave Desk Accessories,Caixa Pequena
+379,13346,Baixa,44,268.34,Envio Normal,-240.83,Doug Bickford,Northwest Territories,Corporativo,Insumos de Escritório,Papéis,Xerox 224,Caixa Pequena
+380,16193,Não especificada,8,300.2,Envio Normal,6.41,Frank Price,Northwest Territories,Corporativo,Insumos de Escritório,Armazenamento e Organização,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Caixa Pequena
+381,16423,Média,19,128.21,Envio Normal,-55.13,Bryan Davis,Northwest Territories,Corporativo,Insumos de Escritório,Papéis,Xerox 20,Caixa Pequena
+382,16451,Não especificada,9,252.79,Envio Normal,58.23,Don Jones,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Surelock™ Post Binders,Caixa Pequena
+383,18144,Crítica,48,207.08,Envio Normal,-131.82,Dorothy Wardle,Northwest Territories,Corporativo,Insumos de Escritório,Papéis,Xerox 1971,Caixa Pequena
+384,18308,Não especificada,30,114.12,Envio Normal,15.73,Ann Chong,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Durable Pressboard Binders,Caixa Pequena
+385,18308,Não especificada,15,436.05,Envio Normal,-92.58,Ann Chong,Northwest Territories,Corporativo,Tecnologia,Periféricos de Computador,Fellowes 17-key keypad for PS/2 interface,Caixa Pequena
+386,18308,Não especificada,49,5247.4835,Envio Normal,1465.87,Ann Chong,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,StarTAC ST7762,Caixa Pequena
+387,19078,Crítica,21,256.12,Envio Normal,-18.19,Brendan Dodson,Northwest Territories,Corporativo,Insumos de Escritório,Eletrodomésticos,Staples 6 Outlet Surge,Caixa Pequena
+388,19686,Média,11,152.67,Envio Normal,12.76,Alan Barnes,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC Binding covers,Caixa Pequena
+389,22151,Alta,49,465.83,Envio Normal,-79.72,Beth Thompson,Northwest Territories,Corporativo,Mobília,Móveis de escritório,"Eldon Expressions™ Desk Accessory, Wood Pencil Holder, Oak",Caixa Pequena
+390,23264,Crítica,16,108.42,Envio Normal,-50.82,Clay Rozendal,Northwest Territories,Corporativo,Insumos de Escritório,Papéis,Xerox 1930,Caixa Pequena
+391,23264,Crítica,27,78.47,Envio Normal,17.99,Clay Rozendal,Northwest Territories,Corporativo,Insumos de Escritório,Etiqueta,Avery 474,Caixa Pequena
+392,24128,Alta,43,6583.9130000000005,Envio Normal,1459.79,Eugene Barchas,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,CF 888,Caixa Pequena
+393,25634,Não especificada,29,593.32,Envio Normal,28.99,Mike Pelletier,Northwest Territories,Corporativo,Tecnologia,Periféricos de Computador,"Fellowes Basic 104-Key Keyboard, Platinum",Caixa Pequena
+394,25767,Alta,15,593.73,Envio Normal,108.01,Ann Chong,Northwest Territories,Corporativo,Insumos de Escritório,Papéis,Xerox 1892,Caixa Pequena
+395,26499,Média,11,32.4,Envio Normal,8.78,Sylvia Foulston,Northwest Territories,Corporativo,Insumos de Escritório,Etiqueta,Avery 507,Caixa Pequena
+396,26531,Média,26,4688.9485,Envio Normal,1215.44,Michelle Lonsdale,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,i470,Caixa Pequena
+397,26567,Crítica,8,50.7,Envio Normal,-44.07,Sylvia Foulston,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,3M Organizer Strips,Caixa Pequena
+398,26567,Crítica,48,6109.816999999999,Envio Normal,1374.95,Sylvia Foulston,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,300 Series Non-Flip,Caixa Pequena
+399,27778,Crítica,1,232.67,Envio Normal,-105.14,Roy Skaria,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC DocuBind TL200 Manual Binding Machine,Caixa Pequena
+400,27909,Crítica,1,62.26,Envio Normal,-23.24,Monica Federle,Northwest Territories,Corporativo,Insumos de Escritório,Papéis,Xerox 1940,Caixa Pequena
+401,28003,Crítica,31,157.79,Envio Normal,-95.92,Charles McCrossin,Northwest Territories,Corporativo,Insumos de Escritório,Papéis,Xerox 1897,Caixa Pequena
+402,28165,Não especificada,2,24.96,Envio Normal,-12.8,Grant Carroll,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Heavy-Duty E-Z-D® Binders,Caixa Pequena
+403,28289,Alta,31,166.76,Envio Normal,-46.03,Carl Ludwig,Northwest Territories,Corporativo,Insumos de Escritório,Papéis,Hammermill CopyPlus Copy Paper (20Lb. and 84 Bright),Caixa Pequena
+404,28486,Alta,2,811.13,Envio Normal,-517.47,Carlos Daly,Northwest Territories,Corporativo,Insumos de Escritório,Armazenamento e Organização,Deluxe Rollaway Locking File with Drawer,Caixa Pequena
+405,28870,Alta,35,3310.9455,Envio Normal,822.4,Cindy Schnelling,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,6160,Caixa Pequena
+406,30947,Baixa,17,691.59,Envio Normal,261.24,Charles McCrossin,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Avery Trapezoid Extra Heavy Duty 4"" Binders",Caixa Pequena
+407,30947,Baixa,45,345.2,Envio Normal,183.53,Charles McCrossin,Northwest Territories,Corporativo,Insumos de Escritório,Etiqueta,Self-Adhesive Address Labels for Typewriters by Universal,Caixa Pequena
+408,31270,Média,5,165.04,Envio Normal,-112.44,Michelle Lonsdale,Northwest Territories,Corporativo,Tecnologia,Periféricos de Computador,"Fellowes Internet Keyboard, Platinum",Caixa Pequena
+409,31364,Não especificada,2,789.01,Envio Normal,-539.59,Beth Thompson,Northwest Territories,Corporativo,Insumos de Escritório,Armazenamento e Organização,Deluxe Rollaway Locking File with Drawer,Caixa Pequena
+410,31618,Crítica,14,403.17,Envio Normal,147.45,Roy Skaria,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Lock-Up Easel 'Spel-Binder',Caixa Pequena
+411,31781,Média,46,249.02,Envio Normal,-282.61,Sylvia Foulston,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Fellowes Black Plastic Comb Bindings,Caixa Pequena
+412,32743,Crítica,19,3548.67,Envio Normal,1280.19,Grant Carroll,Northwest Territories,Corporativo,Insumos de Escritório,Eletrodomésticos,Kensington 7 Outlet MasterPiece Power Center,Caixa Pequena
+413,33186,Baixa,24,1350.531,Envio Normal,221.18,Don Jones,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,8860,Caixa Pequena
+414,33444,Média,8,127.8,Envio Normal,-30.48,Alan Barnes,Northwest Territories,Corporativo,Insumos de Escritório,Armazenamento e Organização,Pizazz® Global Quick File™,Caixa Pequena
+415,33703,Não especificada,25,802.19,Envio Normal,56.26,Carl Ludwig,Northwest Territories,Corporativo,Insumos de Escritório,Armazenamento e Organização,Acco Perma® 2700 Stacking Storage Drawers,Caixa Pequena
+416,34177,Alta,13,34.42,Envio Normal,9.47,Toby Braunhardt,Northwest Territories,Corporativo,Insumos de Escritório,Etiqueta,Avery 494,Caixa Pequena
+417,34177,Alta,26,172.76,Envio Normal,73.18,Toby Braunhardt,Northwest Territories,Corporativo,Insumos de Escritório,Etiqueta,Self-Adhesive Address Labels for Typewriters by Universal,Caixa Pequena
+418,34631,Não especificada,5,22.06,Envio Normal,-22.28,Brendan Dodson,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Cardinal Poly Pocket Divider Pockets for Ring Binders,Caixa Pequena
+419,36134,Baixa,6,826.9735,Envio Normal,-413.33,Grant Carroll,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,R280,Caixa Pequena
+420,36644,Alta,24,2298.32,Envio Normal,218.72,Dorothy Wardle,Northwest Territories,Corporativo,Tecnologia,Periféricos de Computador,U.S. Robotics 56K Internet Call Modem,Caixa Pequena
+421,37634,Média,32,368.18,Envio Normal,-36.78,Brendan Dodson,Northwest Territories,Corporativo,Insumos de Escritório,Armazenamento e Organização,Portable Personal File Box,Caixa Pequena
+422,39364,Alta,15,19417.55,Envio Normal,8417.57,Jamie Kunitz,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,Caixa Pequena
+423,39683,Alta,31,615.58,Envio Normal,168.0,Jeremy Lonsdale,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Poly Designer Cover & Back,Caixa Pequena
+424,40067,Baixa,38,2157.3085,Envio Normal,519.25,Alan Barnes,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,3390,Caixa Pequena
+425,40132,Baixa,16,347.47,Envio Normal,-86.2,Hunter Glantz,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Avery Flip-Chart Easel Binder, Black",Caixa Pequena
+426,41153,Média,29,862.2,Envio Normal,-45.1,Alan Barnes,Northwest Territories,Corporativo,Tecnologia,Periféricos de Computador,Fellowes 17-key keypad for PS/2 interface,Caixa Pequena
+427,41409,Não especificada,1,18.92,Envio Normal,-18.25,Beth Thompson,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Ibico Covers for Plastic or Wire Binding Elements,Caixa Pequena
+428,42209,Alta,5,324.55,Envio Normal,-12.82,Alan Barnes,Northwest Territories,Corporativo,Insumos de Escritório,Eletrodomésticos,Fellowes Command Center 5-outlet power strip,Caixa Pequena
+429,43109,Crítica,19,281.84,Envio Normal,-21.85,Dorothy Wardle,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"GBC Prepunched Paper, 19-Hole, for Binding Systems, 24-lb",Caixa Pequena
+430,43109,Crítica,25,509.52,Envio Normal,-145.78,Dorothy Wardle,Northwest Territories,Corporativo,Tecnologia,Periféricos de Computador,Microsoft Internet Keyboard,Caixa Pequena
+431,43329,Média,42,2475.83,Envio Normal,752.37,Doug Bickford,Northwest Territories,Corporativo,Insumos de Escritório,Eletrodomésticos,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,Caixa Pequena
+432,43364,Alta,21,524.2,Envio Normal,158.98,Susan Vittorini,Northwest Territories,Corporativo,Insumos de Escritório,Envelopes,"Recycled Interoffice Envelopes with String and Button Closure, 10 x 13",Caixa Pequena
+433,44071,Não especificada,19,110.67,Envio Normal,-43.75,Frank Price,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"DXL™ Angle-View Binders with Locking Rings, Black",Caixa Pequena
+434,44071,Não especificada,20,1163.123,Envio Normal,83.84,Frank Price,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,8260,Caixa Pequena
+435,44519,Alta,48,224.58,Envio Normal,-144.76,Dorothy Wardle,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Newell® 3-Hole Punched Plastic Slotted Magazine Holders for Binders,Caixa Pequena
+436,44519,Alta,34,365.77,Envio Normal,155.69,Dorothy Wardle,Northwest Territories,Corporativo,Insumos de Escritório,Envelopes,Laser & Ink Jet Business Envelopes,Caixa Pequena
+437,46980,Crítica,34,216.3,Envio Normal,103.16,Monica Federle,Northwest Territories,Corporativo,Insumos de Escritório,Etiqueta,Avery 51,Caixa Pequena
+438,47462,Alta,43,154.18,Envio Normal,-166.92,Susan Vittorini,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Avery Poly Binder Pockets,Caixa Pequena
+439,47873,Crítica,8,52.39,Envio Normal,-17.38,Doug Bickford,Northwest Territories,Corporativo,Mobília,Móveis de escritório,Eldon Wave Desk Accessories,Caixa Pequena
+440,48839,Crítica,1,97.13,Envio Normal,-37.06,Carlos Daly,Northwest Territories,Corporativo,Insumos de Escritório,Etiqueta,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",Caixa Pequena
+441,50278,Alta,2,51.21,Envio Normal,-27.53,Beth Thompson,Northwest Territories,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Premium Transparent Presentation Covers by GBC,Caixa Pequena
+442,50565,Alta,43,683.46,Envio Normal,-138.82,Sylvia Foulston,Northwest Territories,Corporativo,Insumos de Escritório,Envelopes,Brown Kraft Recycled Envelopes,Caixa Pequena
+443,50914,Crítica,49,8551.544,Envio Normal,2763.13,Carlos Daly,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,A1228,Caixa Pequena
+444,51938,Baixa,5,503.3275,Envio Normal,-488.31,Jim Radford,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,8290,Caixa Pequena
+445,53156,Não especificada,47,186.93,Envio Normal,56.44,Bryan Davis,Northwest Territories,Corporativo,Insumos de Escritório,Etiqueta,Avery 491,Caixa Pequena
+446,53990,Não especificada,44,4263.9315,Envio Normal,1411.03,Carlos Daly,Northwest Territories,Corporativo,Tecnologia,Telefones e comunicação,T18,Caixa Pequena
+447,55366,Crítica,7,387.17,Envio Normal,-204.65,Doug Bickford,Northwest Territories,Corporativo,Tecnologia,Periféricos de Computador,"Fellowes Smart Design 104-Key Enhanced Keyboard, PS/2 Adapter, Platinum",Caixa Pequena
+448,58150,Crítica,24,60.36,Envio Normal,-119.62,Susan Vittorini,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Peel & Stick Add-On Corner Pockets,Caixa Pequena
+449,58340,Média,36,1936.3,Envio Normal,278.12,Sylvia Foulston,Atlantic,Corporativo,Insumos de Escritório,Eletrodomésticos,Eureka The Boss® Cordless Rechargeable Stick Vac,Caixa Pequena
+450,58368,Alta,4,14.23,Envio Normal,-4.43,Doug Bickford,Atlantic,Corporativo,Mobília,Móveis de escritório,Eldon® Wave Desk Accessories,Caixa Pequena
+451,58368,Alta,39,272.07,Envio Normal,-206.46,Doug Bickford,Atlantic,Corporativo,Insumos de Escritório,Papéis,Xerox 1905,Caixa Pequena
+452,59047,Não especificada,26,113.85,Envio Normal,-93.93,Beth Thompson,Atlantic,Corporativo,Mobília,Móveis de escritório,Eldon Image Series Black Desk Accessories,Caixa Pequena
+453,59234,Baixa,32,5686.25,Envio Normal,2109.21,Michelle Lonsdale,Atlantic,Corporativo,Insumos de Escritório,Eletrodomésticos,Kensington 7 Outlet MasterPiece Power Center,Caixa Pequena
+454,59651,Crítica,36,283.21,Envio Normal,-196.06,Brendan Dodson,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Fellowes Twister Kit, Gray/Clear, 3/pkg",Caixa Pequena
+455,1187,Média,14,222.91,Envio Normal,20.21,Guy Armstrong,Atlantic,Corporativo,Tecnologia,Periféricos de Computador,Logitech Access Keyboard,Caixa Pequena
+456,4007,Alta,18,1038.4,Envio Normal,112.36,Jack Lebron,Atlantic,Corporativo,Insumos de Escritório,Eletrodomésticos,"Conquest™ 14 Commercial Heavy-Duty Upright Vacuum, Collection System, Accessory Kit",Caixa Pequena
+457,4416,Baixa,46,7441.29,Envio Normal,2665.4,Erica Bern,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC DocuBind P100 Manual Binding Machine,Caixa Pequena
+458,4454,Baixa,17,55.45,Envio Normal,21.42,Erica Bern,Atlantic,Corporativo,Insumos de Escritório,Etiqueta,Avery 497,Caixa Pequena
+459,5446,Baixa,42,433.68,Envio Normal,44.1,Guy Armstrong,Atlantic,Corporativo,Insumos de Escritório,Envelopes,"Manila Recycled Extra-Heavyweight Clasp Envelopes, 6"" x 9""",Caixa Pequena
+460,8994,Baixa,36,1423.35,Envio Normal,-580.32,Christopher Schild,Atlantic,Corporativo,Tecnologia,Periféricos de Computador,Keytronic Designer 104- Key Black Keyboard,Caixa Pequena
+461,9574,Média,40,434.62,Envio Normal,-68.98,Joy Smith,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Ibico Covers for Plastic or Wire Binding Elements,Caixa Pequena
+462,11362,Baixa,25,2407.6929999999998,Envio Normal,424.14,Hilary Holden,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,LX 677,Caixa Pequena
+463,12773,Baixa,6,17.0,Envio Normal,-4.61,Greg Guthrie,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Acco Suede Grain Vinyl Round Ring Binder,Caixa Pequena
+464,12773,Baixa,15,67.41,Envio Normal,-49.6,Greg Guthrie,Atlantic,Corporativo,Mobília,Móveis de escritório,Eldon Image Series Black Desk Accessories,Caixa Pequena
+465,12773,Baixa,19,130.67,Envio Normal,-77.18,Greg Guthrie,Atlantic,Corporativo,Insumos de Escritório,Papéis,Xerox 213,Caixa Pequena
+466,12934,Não especificada,45,440.39,Envio Normal,186.64,Guy Armstrong,Atlantic,Corporativo,Insumos de Escritório,Envelopes,"Staples #10 Laser & Inkjet Envelopes, 4 1/8"" x 9 1/2"", 100/Box",Caixa Pequena
+467,13604,Não especificada,38,3152.75,Envio Normal,1166.4,Erica Bern,Atlantic,Corporativo,Tecnologia,Periféricos de Computador,"Micro Innovations Micro Digital Wireless Keyboard and Mouse, Gray",Caixa Pequena
+468,15044,Baixa,42,1681.6,Envio Normal,167.37,Erica Bern,Atlantic,Corporativo,Tecnologia,Periféricos de Computador,Zoom V.92 V.44 PCI Internal Controllerless FaxModem,Caixa Pequena
+469,18273,Baixa,18,925.03,Envio Normal,-3.68,Jack Lebron,Atlantic,Corporativo,Tecnologia,Periféricos de Computador,Zoom V.92 USB External Faxmodem,Caixa Pequena
+470,19042,Crítica,8,327.61,Envio Normal,54.9,Evan Minnotte,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Wilson Jones Ledger-Size, Piano-Hinge Binder, 2"", Blue",Caixa Pequena
+471,19073,Não especificada,16,178.4,Envio Normal,20.08,Chuck Magee,Atlantic,Corporativo,Mobília,Móveis de escritório,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",Caixa Pequena
+472,19617,Baixa,3,171.9635,Envio Normal,-296.37,Jack Lebron,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,V 3600 Series,Caixa Pequena
+473,21378,Média,34,937.04,Envio Normal,391.6,Jack Lebron,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Lock-Up Easel 'Spel-Binder',Caixa Pequena
+474,21378,Média,17,1616.64,Envio Normal,26.94,Jack Lebron,Atlantic,Corporativo,Tecnologia,Periféricos de Computador,U.S. Robotics 56K Internet Call Modem,Caixa Pequena
+475,24067,Alta,19,120.56,Envio Normal,-79.35,Frank Atkinson,Atlantic,Corporativo,Insumos de Escritório,Papéis,Xerox 1920,Caixa Pequena
+476,24965,Baixa,42,1146.11,Envio Normal,330.63,Jack Lebron,Atlantic,Corporativo,Mobília,Móveis de escritório,"Deflect-o SuperTray™ Unbreakable Stackable Tray, Letter, Black",Caixa Pequena
+477,25376,Crítica,12,76.61,Envio Normal,-31.83,Greg Guthrie,Atlantic,Corporativo,Mobília,Móveis de escritório,"Eldon® 200 Class™ Desk Accessories, Burgundy",Caixa Pequena
+478,28836,Alta,50,8221.2935,Envio Normal,2342.21,Erica Bern,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,688,Caixa Pequena
+479,28836,Alta,7,1158.26,Envio Normal,170.08,Erica Bern,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Ibico EB-19 Dual Function Manual Binding System,Caixa Pequena
+480,28995,Alta,9,298.52,Envio Normal,73.19,Hilary Holden,Atlantic,Corporativo,Insumos de Escritório,Papéis,"IBM Multi-Purpose Copy Paper, 8 1/2 x 11"", Case",Caixa Pequena
+481,28995,Alta,34,667.35,Envio Normal,80.92,Hilary Holden,Atlantic,Corporativo,Insumos de Escritório,Papéis,Southworth 25% Cotton Premium Laser Paper and Envelopes,Caixa Pequena
+482,29121,Média,31,3206.965,Envio Normal,575.33,Jack Lebron,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,Timeport L7089,Caixa Pequena
+483,30243,Crítica,44,2435.32,Envio Normal,650.56,Hilary Holden,Atlantic,Corporativo,Insumos de Escritório,Eletrodomésticos,"Fellowes Smart Surge Ten-Outlet Protector, Platinum",Caixa Pequena
+484,32199,Alta,40,196.5,Envio Normal,-99.76,Erica Bern,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",Caixa Pequena
+485,32835,Média,15,572.4325,Envio Normal,-19.44,Joy Smith,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,KF 788,Caixa Pequena
+486,32869,Média,39,5250.6625,Envio Normal,930.99,Christopher Schild,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,2180,Caixa Pequena
+487,35300,Média,10,28.81,Envio Normal,7.15,Dan Reichenbach,Atlantic,Corporativo,Insumos de Escritório,Etiqueta,*Staples* Packaging Labels,Caixa Pequena
+488,37888,Crítica,31,639.19,Envio Normal,274.9,Hilary Holden,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Avery Legal 4-Ring Binder,Caixa Pequena
+489,40327,Média,42,152.55,Envio Normal,-20.27,Erica Bern,Atlantic,Corporativo,Insumos de Escritório,Envelopes,Colored Envelopes,Caixa Pequena
+490,40327,Média,36,152.96,Envio Normal,-123.87,Erica Bern,Atlantic,Corporativo,Insumos de Escritório,Papéis,Xerox 1953,Caixa Pequena
+491,40800,Não especificada,18,101.34,Envio Normal,26.11,Jim Sink,Atlantic,Corporativo,Insumos de Escritório,Envelopes,Staples Standard Envelopes,Caixa Pequena
+492,40871,Não especificada,32,294.04,Envio Normal,-5.53,Joy Smith,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC Standard Plastic Binding Systems Combs,Caixa Pequena
+493,41991,Baixa,35,543.22,Envio Normal,68.44,Philip Brown,Atlantic,Corporativo,Mobília,Móveis de escritório,DAX Clear Channel Poster Frame,Caixa Pequena
+494,42754,Crítica,31,341.71,Envio Normal,32.19,Paul Gonzalez,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC Imprintable Covers,Caixa Pequena
+495,42918,Alta,46,648.26,Envio Normal,30.48,Logan Haushalter,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"GBC Laser Imprintable Binding System Covers, Desert Sand",Caixa Pequena
+496,44387,Baixa,20,173.09,Envio Normal,-6.71,Erica Bern,Atlantic,Corporativo,Insumos de Escritório,Papéis,Southworth 25% Cotton Antique Laid Paper & Envelopes,Caixa Pequena
+497,45601,Alta,47,945.03,Envio Normal,267.64,Dan Reichenbach,Atlantic,Corporativo,Insumos de Escritório,Papéis,Xerox 1936,Caixa Pequena
+498,46756,Média,3,33.64,Envio Normal,-22.45,Chuck Magee,Atlantic,Corporativo,Insumos de Escritório,Papéis,"Array® Parchment Paper, Assorted Colors",Caixa Pequena
+499,47714,Média,30,176.15,Envio Normal,-125.36,Philip Brown,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Avery Durable Poly Binders,Caixa Pequena
+500,47846,Alta,37,241.14,Envio Normal,-120.08,Hilary Holden,Atlantic,Corporativo,Insumos de Escritório,Papéis,HP Office Paper (20Lb. and 87 Bright),Caixa Pequena
+501,48199,Não especificada,47,672.46,Envio Normal,279.74,Erica Bern,Atlantic,Corporativo,Insumos de Escritório,Envelopes,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",Caixa Pequena
+502,50404,Alta,18,3780.43,Envio Normal,905.57,Guy Armstrong,Prarie,Corporativo,Insumos de Escritório,Armazenamento e Organização,"24 Capacity Maxi Data Binder Racks, Pearl",Caixa Pequena
+503,50784,Alta,20,638.72,Envio Normal,-130.88,Chuck Magee,Prarie,Corporativo,Tecnologia,Periféricos de Computador,PC Concepts 116 Key Quantum 3000 Keyboard,Caixa Pequena
+504,51558,Não especificada,34,245.4,Envio Normal,-87.27,Greg Guthrie,Prarie,Corporativo,Insumos de Escritório,Papéis,Xerox 1898,Caixa Pequena
+505,53410,Crítica,44,642.8,Envio Normal,-253.11,Christopher Schild,Prarie,Corporativo,Insumos de Escritório,Eletrodomésticos,"Holmes Replacement Filter for HEPA Air Cleaner, Large Room",Caixa Pequena
+506,53477,Alta,28,4479.16,Envio Normal,610.9,Joy Smith,Prarie,Corporativo,Insumos de Escritório,Armazenamento e Organização,Fellowes Super Stor/Drawer® Files,Caixa Pequena
+507,53703,Não especificada,14,1966.26,Envio Normal,-34.79,Guy Armstrong,Prarie,Corporativo,Insumos de Escritório,Armazenamento e Organização,"Fellowes Strictly Business® Drawer File, Letter/Legal Size",Caixa Pequena
+508,54115,Baixa,24,114.17,Envio Normal,-80.05,Brian Moss,Prarie,Corporativo,Insumos de Escritório,Eletrodomésticos,"Eureka Sanitaire ® Multi-Pro Heavy-Duty Upright, Disposable Bags",Caixa Pequena
+509,54115,Baixa,39,197.11,Envio Normal,-89.42,Brian Moss,Prarie,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Cardinal Holdit Business Card Pockets,Caixa Pequena
+510,54501,Crítica,36,2039.082,Envio Normal,481.7,Guy Armstrong,Prarie,Corporativo,Tecnologia,Telefones e comunicação,T193,Caixa Pequena
+511,54753,Média,36,4711.244000000001,Envio Normal,1380.32,Christopher Schild,Prarie,Corporativo,Tecnologia,Telefones e comunicação,T39m,Caixa Pequena
+512,57159,Crítica,42,460.2,Envio Normal,-214.39,Hilary Holden,Prarie,Corporativo,Insumos de Escritório,Papéis,Hammermill Color Copier Paper (28Lb. and 96 Bright),Caixa Pequena
+513,57507,Crítica,10,155.45,Envio Normal,-19.68,Logan Haushalter,Prarie,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"GBC Prepunched Paper, 19-Hole, for Binding Systems, 24-lb",Caixa Pequena
+514,58788,Baixa,31,983.78,Envio Normal,43.72,Christopher Schild,Prarie,Corporativo,Tecnologia,Periféricos de Computador,Belkin ErgoBoard™ Keyboard,Caixa Pequena
+515,59750,Baixa,34,223.59,Envio Normal,-66.05,Jim Sink,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1994,Caixa Pequena
+516,35,Não especificada,14,1892.848,Envio Normal,48.99,Julie Creighton,West,Corporativo,Tecnologia,Telefones e comunicação,CF 688,Caixa Pequena
+517,2279,Média,39,845.9,Envio Normal,52.53,Rob Haberlin,West,Corporativo,Insumos de Escritório,Armazenamento e Organização,Acco Perma® 3000 Stacking Storage Drawers,Caixa Pequena
+518,2530,Média,9,23.46,Envio Normal,4.58,Rob Haberlin,West,Corporativo,Insumos de Escritório,Etiqueta,Avery 479,Caixa Pequena
+519,10692,Baixa,48,8101.9875,Envio Normal,2369.84,Rob Haberlin,West,Corporativo,Tecnologia,Telefones e comunicação,2160i,Caixa Pequena
+520,10692,Baixa,8,1313.8110000000001,Envio Normal,-457.16,Rob Haberlin,West,Corporativo,Tecnologia,Telefones e comunicação,A1228,Caixa Pequena
+521,11782,Baixa,46,247.21,Envio Normal,-63.72,Marina Lichtenstein,West,Corporativo,Insumos de Escritório,Papéis,Hammermill CopyPlus Copy Paper (20Lb. and 84 Bright),Caixa Pequena
+522,12199,Baixa,2,19.0,Envio Normal,-10.73,Justin Knight,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Wilson Jones® Four-Pocket Poly Binders,Caixa Pequena
+523,12199,Baixa,50,8289.51,Envio Normal,3051.62,Justin Knight,West,Corporativo,Insumos de Escritório,Armazenamento e Organização,"Dual Level, Single-Width Filing Carts",Caixa Pequena
+524,18471,Não especificada,29,185.61,Envio Normal,-47.12,Justin Knight,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1983,Caixa Pequena
+525,21892,Alta,6,34.88,Envio Normal,-18.34,Justin Knight,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",Caixa Pequena
+526,23907,Não especificada,7,384.2,Envio Normal,-164.46,Julie Creighton,West,Corporativo,Tecnologia,Telefones e comunicação,6190,Caixa Pequena
+527,24132,Baixa,4,31.01,Envio Normal,-4.49,Justin Knight,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Wilson Jones DublLock® D-Ring Binders,Caixa Pequena
+528,24132,Baixa,46,331.83,Envio Normal,-101.25,Justin Knight,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Wilson Jones Hanging View Binder, White, 1""",Caixa Pequena
+529,24132,Baixa,22,446.46,Envio Normal,-1.88,Justin Knight,West,Corporativo,Tecnologia,Periféricos de Computador,"Fellowes Basic 104-Key Keyboard, Platinum",Caixa Pequena
+530,24132,Baixa,31,1252.89,Envio Normal,339.75,Justin Knight,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Ibico Recycled Linen-Style Covers,Caixa Pequena
+531,24132,Baixa,12,47.79,Envio Normal,-57.75,Justin Knight,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Self-Adhesive Ring Binder Labels,Caixa Pequena
+532,24132,Baixa,3,63.84,Envio Normal,-47.97,Justin Knight,West,Corporativo,Insumos de Escritório,Armazenamento e Organização,"Tenex File Box, Personal Filing Tote with Lid, Black",Caixa Pequena
+533,24576,Não especificada,10,152.84,Envio Normal,38.02,Luke Weiss,West,Corporativo,Mobília,Móveis de escritório,DAX Clear Channel Poster Frame,Caixa Pequena
+534,28068,Baixa,23,631.99,Envio Normal,-43.96,Julie Creighton,West,Corporativo,Tecnologia,Periféricos de Computador,Belkin MediaBoard 104- Keyboard,Caixa Pequena
+535,34816,Não especificada,29,1158.45,Envio Normal,267.16,Sally Knutson,West,Corporativo,Insumos de Escritório,Eletrodomésticos,Fellowes 8 Outlet Superior Workstation Surge Protector,Caixa Pequena
+536,34816,Não especificada,43,2568.71,Envio Normal,590.77,Sally Knutson,West,Corporativo,Insumos de Escritório,Envelopes,"Tyvek Interoffice Envelopes, 9 1/2"" x 12 1/2"", 100/Box",Caixa Pequena
+537,37315,Baixa,43,170.81,Envio Normal,-133.68,Luke Weiss,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1971,Caixa Pequena
+538,37925,Média,31,1784.0479999999998,Envio Normal,394.45,Luke Weiss,West,Corporativo,Tecnologia,Telefones e comunicação,StarTAC 7760,Caixa Pequena
+539,38021,Média,46,1482.01,Envio Normal,709.33,Rob Haberlin,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Premier Elliptical Ring Binder, Black",Caixa Pequena
+540,38336,Crítica,14,91.75,Envio Normal,2.82,Julie Creighton,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Wilson Jones DublLock® D-Ring Binders,Caixa Pequena
+541,38336,Crítica,31,346.57,Envio Normal,-116.45,Julie Creighton,West,Corporativo,Tecnologia,Periféricos de Computador,Micro Innovations 104 Keyboard,Caixa Pequena
+542,39783,Não especificada,19,82.43,Envio Normal,-94.76,Sally Knutson,West,Corporativo,Insumos de Escritório,Eletrodomésticos,Eureka Disposable Bags for Sanitaire® Vibra Groomer I® Upright Vac,Caixa Pequena
+543,39783,Não especificada,31,295.97,Envio Normal,5.02,Sally Knutson,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC Standard Plastic Binding Systems Combs,Caixa Pequena
+544,39783,Não especificada,29,94.5,Envio Normal,39.9,Sally Knutson,West,Corporativo,Insumos de Escritório,Etiqueta,Avery 520,Caixa Pequena
+545,44256,Baixa,17,114.28,Envio Normal,-38.72,Sally Knutson,West,Corporativo,Insumos de Escritório,Papéis,Xerox 226,Caixa Pequena
+546,47367,Média,7,27.99,Envio Normal,-0.17,Rob Haberlin,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Durable Pressboard Binders,Caixa Pequena
+547,47367,Média,6,21.07,Envio Normal,2.28,Rob Haberlin,West,Corporativo,Insumos de Escritório,Etiqueta,Avery 52,Caixa Pequena
+548,47750,Baixa,37,102.46,Envio Normal,36.64,Sally Knutson,West,Corporativo,Insumos de Escritório,Etiqueta,Avery 492,Caixa Pequena
+549,48388,Alta,3,21.64,Envio Normal,-13.33,Marina Lichtenstein,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Binder Posts,Caixa Pequena
+550,51879,Não especificada,26,1382.31,Envio Normal,372.26,Monica Federle,West,Corporativo,Mobília,Móveis de escritório,"Howard Miller 11-1/2"" Diameter Ridgewood Wall Clock",Caixa Pequena
+551,51879,Não especificada,46,991.36,Envio Normal,212.06,Monica Federle,West,Corporativo,Insumos de Escritório,Papéis,Southworth 25% Cotton Premium Laser Paper and Envelopes,Caixa Pequena
+552,53572,Média,17,184.09,Envio Normal,4.79,Marina Lichtenstein,West,Corporativo,Insumos de Escritório,Envelopes,#10 Self-Seal White Envelopes,Caixa Pequena
+553,54119,Média,4,127.56,Envio Normal,-41.75,Monica Federle,West,Corporativo,Insumos de Escritório,Armazenamento e Organização,Acco Perma® 2700 Stacking Storage Drawers,Caixa Pequena
+554,9892,Média,50,1406.64,Envio Normal,424.36,Kelly Williams,West,Corporativo,Insumos de Escritório,Envelopes,"Tyvek ® Top-Opening Peel & Seel Envelopes, Plain White",Caixa Pequena
+555,10048,Não especificada,46,3197.45,Envio Normal,97.16,Sonia Sunley,West,Corporativo,Tecnologia,Periféricos de Computador,Keytronic 105-Key Spanish Keyboard,Caixa Pequena
+556,10432,Baixa,13,2323.36,Envio Normal,220.39,Sonia Sunley,West,Corporativo,Tecnologia,Periféricos de Computador,Motorola SB4200 Cable Modem,Caixa Pequena
+557,13158,Crítica,26,187.16,Envio Normal,29.33,Kelly Williams,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Wilson Jones DublLock® D-Ring Binders,Caixa Pequena
+558,14375,Média,7,44.05,Envio Normal,-21.77,Rick Duston,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1978,Caixa Pequena
+559,16230,Baixa,2,13.3,Envio Normal,-7.86,Sonia Sunley,West,Corporativo,Insumos de Escritório,Etiqueta,Self-Adhesive Address Labels for Typewriters by Universal,Caixa Pequena
+560,16230,Baixa,15,687.52,Envio Normal,223.76,Sonia Sunley,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1891,Caixa Pequena
+561,16230,Baixa,40,4538.66,Envio Normal,506.86,Sonia Sunley,West,Corporativo,Insumos de Escritório,Armazenamento e Organização,Fellowes Recycled Storage Drawers,Caixa Pequena
+562,21856,Não especificada,47,168.55,Envio Normal,71.77,Sonia Sunley,West,Corporativo,Insumos de Escritório,Etiqueta,Avery 487,Caixa Pequena
+563,22119,Baixa,20,939.39,Envio Normal,-122.77,Stewart Carmichael,West,Corporativo,Insumos de Escritório,Eletrodomésticos,"Eureka Hand Vacuum, Bagless",Caixa Pequena
+564,22534,Média,3,279.33,Envio Normal,-44.18,Kelly Williams,West,Corporativo,Insumos de Escritório,Envelopes,Airmail Envelopes,Caixa Pequena
+565,24070,Alta,36,170.42,Envio Normal,-98.31,Sonia Sunley,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",Caixa Pequena
+566,27174,Crítica,17,477.5045,Envio Normal,-245.56,Alex Avila,West,Corporativo,Tecnologia,Telefones e comunicação,Accessory27,Caixa Pequena
+567,33600,Baixa,42,187.28,Envio Normal,-94.36,Sonia Sunley,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1962,Caixa Pequena
+568,35364,Crítica,16,72.08,Envio Normal,-54.75,Lisa DeCherney,West,Corporativo,Insumos de Escritório,Papéis,Xerox 199,Caixa Pequena
+569,35364,Crítica,8,1265.2930000000001,Envio Normal,-554.44,Lisa DeCherney,West,Corporativo,Tecnologia,Telefones e comunicação,T28 WORLD,Caixa Pequena
+570,38272,Crítica,39,71.04,Envio Normal,-20.65,Sarah Foster,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Staples® General Use 3-Ring Binders,Caixa Pequena
+571,45763,Alta,25,67.45,Envio Normal,24.28,Lisa DeCherney,West,Corporativo,Insumos de Escritório,Etiqueta,Avery 494,Caixa Pequena
+572,50310,Média,22,482.37,Envio Normal,34.03,Sarah Foster,West,Corporativo,Tecnologia,Periféricos de Computador,"Fellowes Basic 104-Key Keyboard, Platinum",Caixa Pequena
+573,51648,Baixa,45,2354.8,Envio Normal,332.97,Roy Skaria,West,Corporativo,Tecnologia,Periféricos de Computador,Zoom V.92 USB External Faxmodem,Caixa Pequena
+574,53216,Alta,36,228.01,Envio Normal,-185.54,Roy Skaria,West,Corporativo,Insumos de Escritório,Papéis,Xerox 227,Caixa Pequena
+575,55777,Não especificada,6,323.53,Envio Normal,136.32,Roy Skaria,West,Corporativo,Mobília,Móveis de escritório,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",Caixa Pequena
+576,56640,Alta,2,29.31,Envio Normal,-12.78,Anthony O'Donnell,West,Corporativo,Insumos de Escritório,Papéis,Personal Creations™ Ink Jet Cards and Labels,Caixa Pequena
+577,56640,Alta,11,80.26,Envio Normal,-22.55,Anthony O'Donnell,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1923,Caixa Pequena
+578,322,Crítica,20,2634.8555,Envio Normal,257.76,Giulietta Weimer,West,Corporativo,Tecnologia,Telefones e comunicação,I888 World Phone,Caixa Pequena
+579,322,Crítica,46,281.0,Envio Normal,-291.59,Giulietta Weimer,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1997,Caixa Pequena
+580,1221,Não especificada,1,14.68,Envio Normal,-13.78,Lela Donovan,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Avery Printable Repositionable Plastic Tabs,Caixa Pequena
+581,1221,Não especificada,11,10145.14,Envio Normal,3724.57,Lela Donovan,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC DocuBind TL300 Electric Binding System,Caixa Pequena
+582,1221,Não especificada,16,68.45,Envio Normal,-57.88,Lela Donovan,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Storex DuraTech Recycled Plastic Frosted Binders,Caixa Pequena
+583,1445,Média,3,1326.09,Envio Normal,-20.55,Shahid Shariari,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC DocuBind 200 Manual Binding Machine,Caixa Pequena
+584,4067,Alta,16,118.38,Envio Normal,-42.46,Shahid Shariari,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Wilson Jones Hanging View Binder, White, 1""",Caixa Pequena
+585,4261,Crítica,33,195.98,Envio Normal,-71.47,Lela Donovan,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1947,Caixa Pequena
+586,4261,Crítica,48,274.38,Envio Normal,-94.82,Lela Donovan,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1950,Caixa Pequena
+587,4864,Baixa,16,4901.99,Envio Normal,1724.68,Ralph Kennedy,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC ProClick™ 150 Presentation Binding System,Caixa Pequena
+588,4996,Média,30,4305.79,Envio Normal,1020.32,Rob Dowd,West,Corporativo,Insumos de Escritório,Armazenamento e Organização,Letter Size Cart,Caixa Pequena
+589,6144,Crítica,24,67.35,Envio Normal,22.63,Ralph Kennedy,West,Corporativo,Insumos de Escritório,Etiqueta,Avery 492,Caixa Pequena
+590,7169,Média,22,446.72,Envio Normal,-39.0,Lela Donovan,West,Corporativo,Mobília,Móveis de escritório,"Career Cubicle Clock, 8 1/4"", Black",Caixa Pequena
+591,7169,Média,30,1580.6005,Envio Normal,303.53,Lela Donovan,West,Corporativo,Tecnologia,Telefones e comunicação,V8162,Caixa Pequena
+592,7427,Não especificada,47,16002.29,Envio Normal,4604.79,Ricardo Emerson,West,Corporativo,Insumos de Escritório,Eletrodomésticos,Hoover WindTunnel™ Plus Canister Vacuum,Caixa Pequena
+593,7427,Não especificada,9,182.26,Envio Normal,60.61,Ricardo Emerson,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Flexible Leather- Look Classic Collection Ring Binder,Caixa Pequena
+594,8992,Alta,14,2145.6975,Envio Normal,-176.79,Shahid Shariari,West,Corporativo,Tecnologia,Telefones e comunicação,688,Caixa Pequena
+595,8992,Alta,18,1341.963,Envio Normal,180.78,Shahid Shariari,West,Corporativo,Tecnologia,Telefones e comunicação,6340,Caixa Pequena
+596,10306,Baixa,20,310.31,Envio Normal,51.5,Lela Donovan,West,Corporativo,Mobília,Móveis de escritório,DAX Clear Channel Poster Frame,Caixa Pequena
+597,10470,Crítica,35,246.98,Envio Normal,-94.78,Khloe Miller,West,Corporativo,Mobília,Móveis de escritório,"Eldon® Expressions™ Wood Desk Accessories, Oak",Caixa Pequena
+598,11392,Baixa,28,128.69,Envio Normal,28.29,Sarah Bern,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Presstex Flexible Ring Binders,Caixa Pequena
+599,14240,Alta,24,68.88,Envio Normal,1.31,Ralph Kennedy,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Acco Suede Grain Vinyl Round Ring Binder,Caixa Pequena
+600,14471,Não especificada,42,286.73,Envio Normal,-141.51,Ralph Kennedy,West,Corporativo,Insumos de Escritório,Papéis,Xerox 220,Caixa Pequena
+601,17344,Crítica,40,2405.4575,Envio Normal,571.54,Rob Dowd,West,Corporativo,Tecnologia,Telefones e comunicação,5190,Caixa Pequena
+602,17507,Média,27,399.76,Envio Normal,48.13,Lela Donovan,West,Corporativo,Insumos de Escritório,Eletrodomésticos,Acco 6 Outlet Guardian Premium Surge Suppressor,Caixa Pequena
+603,18179,Não especificada,24,73.37,Envio Normal,16.1,Liz Price,West,Corporativo,Insumos de Escritório,Etiqueta,Avery 481,Caixa Pequena
+604,19044,Baixa,29,271.33,Envio Normal,-191.09,Rob Dowd,West,Corporativo,Insumos de Escritório,Armazenamento e Organização,Filing/Storage Totes and Swivel Casters,Caixa Pequena
+605,20676,Baixa,22,43.97,Envio Normal,-9.05,Shahid Shariari,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Staples® General Use 3-Ring Binders,Caixa Pequena
+606,20960,Baixa,19,195.96,Envio Normal,-104.82,Giulietta Weimer,West,Corporativo,Tecnologia,Periféricos de Computador,Micro Innovations 104 Keyboard,Caixa Pequena
+607,21350,Média,30,278.94,Envio Normal,-143.7,Ralph Kennedy,West,Corporativo,Insumos de Escritório,Papéis,Southworth 25% Cotton Linen-Finish Paper & Envelopes,Caixa Pequena
+608,23207,Crítica,11,336.91,Envio Normal,42.5,Ralph Kennedy,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1979,Caixa Pequena
+609,26368,Média,25,1809.0125,Envio Normal,795.05,Shahid Shariari,West,Corporativo,Tecnologia,Telefones e comunicação,Accessory12,Caixa Pequena
+610,28225,Crítica,9,206.04,Envio Normal,-49.81,Khloe Miller,West,Corporativo,Mobília,Móveis de escritório,"Career Cubicle Clock, 8 1/4"", Black",Caixa Pequena
+611,28898,Baixa,44,246.0,Envio Normal,-207.36,Mark Cousins,West,Corporativo,Insumos de Escritório,Papéis,Xerox 196,Caixa Pequena
+612,29185,Alta,8,468.49,Envio Normal,-6.37,Rob Dowd,West,Corporativo,Insumos de Escritório,Eletrodomésticos,"Conquest™ 14 Commercial Heavy-Duty Upright Vacuum, Collection System, Accessory Kit",Caixa Pequena
+613,29986,Crítica,40,1477.39,Envio Normal,641.4,Rob Dowd,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Vinyl Sectional Post Binders,Caixa Pequena
+614,30149,Média,8,16.47,Envio Normal,-6.82,Mark Cousins,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Round Ring Binders,Caixa Pequena
+615,30149,Média,50,690.97,Envio Normal,-16.94,Mark Cousins,West,Corporativo,Mobília,Móveis de escritório,9-3/4 Diameter Round Wall Clock,Caixa Pequena
+616,32611,Média,16,33.76,Envio Normal,-7.15,Neil Knudson,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Economy Binders,Caixa Pequena
+617,32611,Média,15,81.66,Envio Normal,-31.99,Neil Knudson,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1989,Caixa Pequena
+618,32901,Crítica,13,49.74,Envio Normal,17.7,Neil Knudson,West,Corporativo,Insumos de Escritório,Etiqueta,Avery 496,Caixa Pequena
+619,33732,Não especificada,33,332.95,Envio Normal,-28.16,Heather Jas,West,Corporativo,Mobília,Móveis de escritório,"Eldon Expressions™ Desk Accessory, Wood Pencil Holder, Oak",Caixa Pequena
+620,34852,Baixa,26,53.93,Envio Normal,-10.95,Rob Dowd,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Round Ring Binders,Caixa Pequena
+621,36480,Média,44,1190.8,Envio Normal,502.49,Lela Donovan,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Lock-Up Easel 'Spel-Binder',Caixa Pequena
+622,36803,Não especificada,42,121.65,Envio Normal,30.76,Ralph Kennedy,West,Corporativo,Insumos de Escritório,Etiqueta,Avery 514,Caixa Pequena
+623,36803,Não especificada,2,103.105,Envio Normal,-316.32,Ralph Kennedy,West,Corporativo,Tecnologia,Telefones e comunicação,V8160,Caixa Pequena
+624,36805,Média,7,263.8,Envio Normal,165.33,Shahid Shariari,West,Corporativo,Mobília,Móveis de escritório,Hand-Finished Solid Wood Document Frame,Caixa Pequena
+625,37729,Não especificada,48,447.89,Envio Normal,-26.78,Giulietta Weimer,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Avery Printable Repositionable Plastic Tabs,Caixa Pequena
+626,40164,Não especificada,8,184.07,Envio Normal,75.63,Chuck Clark,West,Corporativo,Mobília,Móveis de escritório,"Seth Thomas 12"" Clock w/ Goldtone Case",Caixa Pequena
+627,40608,Não especificada,29,573.97,Envio Normal,55.82,Bill Eplett,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1939,Caixa Pequena
+628,40608,Não especificada,39,223.79,Envio Normal,-89.88,Bill Eplett,West,Corporativo,Insumos de Escritório,Papéis,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Caixa Pequena
+629,40801,Não especificada,20,129.16,Envio Normal,-56.15,Sarah Bern,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1894,Caixa Pequena
+630,40965,Média,29,843.55,Envio Normal,168.76,Mark Cousins,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1979,Caixa Pequena
+631,42112,Não especificada,16,2744.361,Envio Normal,201.03,Bill Eplett,West,Corporativo,Tecnologia,Telefones e comunicação,T28 WORLD,Caixa Pequena
+632,42342,Não especificada,25,318.14,Envio Normal,49.67,Bill Eplett,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1907,Caixa Pequena
+633,45155,Baixa,44,181.61,Envio Normal,-150.26,Ralph Kennedy,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,ACCOHIDE® Binder by Acco,Caixa Pequena
+634,48452,Alta,19,1781.11,Envio Normal,51.44,Giulietta Weimer,Atlantic,Corporativo,Tecnologia,Periféricos de Computador,U.S. Robotics 56K Internet Call Modem,Caixa Pequena
+635,48452,Alta,44,185.32,Envio Normal,-192.56,Giulietta Weimer,Atlantic,Corporativo,Mobília,Móveis de escritório,"Eldon® Image Series Desk Accessories, Burgundy",Caixa Pequena
+636,48452,Alta,15,73.41,Envio Normal,-44.79,Giulietta Weimer,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",Caixa Pequena
+637,49223,Média,24,238.25,Envio Normal,-83.55,Chuck Clark,Atlantic,Corporativo,Insumos de Escritório,Armazenamento e Organização,Staples File Caddy,Caixa Pequena
+638,58407,Alta,29,1669.88,Envio Normal,548.92,John Grady,Atlantic,Corporativo,Insumos de Escritório,Papéis,Xerox 194,Caixa Pequena
+639,58884,Baixa,29,87.68,Envio Normal,23.14,Chuck Clark,Atlantic,Corporativo,Insumos de Escritório,Etiqueta,Avery 474,Caixa Pequena
+640,58913,Média,23,144.55,Envio Normal,-60.17,Sarah Bern,Atlantic,Corporativo,Insumos de Escritório,Papéis,"Eureka Recycled Copy Paper 8 1/2"" x 11"", Ream",Caixa Pequena
+641,1699,Crítica,40,430.88,Envio Normal,39.0,Art Ferguson,Atlantic,Corporativo,Insumos de Escritório,Envelopes,#10 Self-Seal White Envelopes,Caixa Pequena
+642,3361,Não especificada,49,213.71,Envio Normal,-208.02,Michael Granlund,Atlantic,Corporativo,Insumos de Escritório,Papéis,Xerox 1927,Caixa Pequena
+643,5511,Crítica,32,1829.3870000000002,Envio Normal,482.45,Art Ferguson,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,StarTAC Series,Caixa Pequena
+644,8007,Baixa,5,820.5645,Envio Normal,-800.25,Maya Herman,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,StarTAC 8000,Caixa Pequena
+645,9923,Alta,27,63.71,Envio Normal,-96.03,Chad Sievert,Atlantic,Corporativo,Mobília,Móveis de escritório,Eldon® Wave Desk Accessories,Caixa Pequena
+646,9925,Crítica,17,86.47,Envio Normal,-9.35,Chad Sievert,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Wilson Jones 1"" Hanging DublLock® Ring Binders",Caixa Pequena
+647,12228,Não especificada,30,5015.0509999999995,Envio Normal,1090.43,Brad Norvell,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,2160i,Caixa Pequena
+648,12355,Não especificada,45,168.66,Envio Normal,-167.06,Ken Heidel,Atlantic,Corporativo,Insumos de Escritório,Eletrodomésticos,"Hoover Replacement Belts For Soft Guard™ & Commercial Ltweight Upright Vacs, 2/Pk",Caixa Pequena
+649,12389,Média,34,2560.59,Envio Normal,670.96,Michael Granlund,Atlantic,Corporativo,Tecnologia,Periféricos de Computador,Logitech Cordless Navigator Duo,Caixa Pequena
+650,12389,Média,16,189.04,Envio Normal,-74.77,Michael Granlund,Atlantic,Corporativo,Insumos de Escritório,Armazenamento e Organização,"SimpliFile™ Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h",Caixa Pequena
+651,15878,Alta,36,275.06,Envio Normal,-237.87,Mike Kennedy,Atlantic,Corporativo,Insumos de Escritório,Papéis,"Array® Parchment Paper, Assorted Colors",Caixa Pequena
+652,16967,Baixa,5,397.55,Envio Normal,-152.47,Brad Norvell,Atlantic,Corporativo,Tecnologia,Periféricos de Computador,"Micro Innovations Micro Digital Wireless Keyboard and Mouse, Gray",Caixa Pequena
+653,16967,Baixa,34,676.26,Envio Normal,181.98,Brad Norvell,Atlantic,Corporativo,Insumos de Escritório,Papéis,Xerox Blank Computer Paper,Caixa Pequena
+654,18432,Alta,42,451.32,Envio Normal,1.16,Art Ferguson,Atlantic,Corporativo,Mobília,Móveis de escritório,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",Caixa Pequena
+655,22053,Crítica,32,563.08,Envio Normal,112.97,Sean Wendt,Atlantic,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Poly Designer Cover & Back,Caixa Pequena
+656,25347,Baixa,28,967.27,Envio Normal,309.31,Theone Pippenger,Atlantic,Corporativo,Insumos de Escritório,Papéis,Xerox 1906,Caixa Pequena
+657,26304,Média,43,7452.137,Envio Normal,2028.36,Art Ferguson,Atlantic,Corporativo,Tecnologia,Telefones e comunicação,3285,Caixa Pequena
+658,31297,Baixa,39,679.95,Envio Normal,-93.3,Mike Kennedy,West,Corporativo,Insumos de Escritório,Canetas e Suprimentos de arte,Model L Table or Wall-Mount Pencil Sharpener,Caixa Pequena
+659,31297,Baixa,44,1579.56,Envio Normal,699.64,Mike Kennedy,West,Corporativo,Insumos de Escritório,Papéis,Staples Colored Bar Computer Paper,Caixa Pequena
+660,31553,Crítica,32,4906.85,Envio Normal,1907.94,Sean Wendt,West,Corporativo,Insumos de Escritório,Envelopes,Multimedia Mailers,Caixa Pequena
+661,33570,Não especificada,46,265.88,Envio Normal,-90.9,Ken Heidel,West,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Binder Posts,Caixa Pequena
+662,33570,Não especificada,19,3093.864,Envio Normal,286.4,Ken Heidel,West,Corporativo,Tecnologia,Telefones e comunicação,i470,Caixa Pequena
+663,36359,Alta,2,68.66,Envio Normal,-29.6,Ken Heidel,West,Corporativo,Insumos de Escritório,Papéis,"IBM Multi-Purpose Copy Paper, 8 1/2 x 11"", Case",Caixa Pequena
+664,36901,Crítica,30,201.09,Envio Normal,-56.22,Dana Kaydos,West,Corporativo,Insumos de Escritório,Papéis,Xerox 1923,Caixa Pequena
+665,38625,Não especificada,12,72.82,Envio Normal,5.03,Chad Sievert,West,Corporativo,Insumos de Escritório,Envelopes,Wausau Papers Astrobrights® Colored Envelopes,Caixa Pequena
+666,44450,Crítica,24,1326.51,Envio Normal,58.17,Sean Wendt,West,Corporativo,Tecnologia,Telefones e comunicação,StarTAC Analog,Caixa Pequena
+667,45025,Alta,26,73.82,Envio Normal,2.01,Mike Kennedy,Prarie,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Avery Durable Binders,Caixa Pequena
+668,45248,Média,38,154.85,Envio Normal,-136.55,Mark Cousins,Prarie,Corporativo,Insumos de Escritório,Eletrodomésticos,"Hoover Replacement Belts For Soft Guard™ & Commercial Ltweight Upright Vacs, 2/Pk",Caixa Pequena
+669,45248,Média,32,4941.7725,Envio Normal,704.89,Mark Cousins,Prarie,Corporativo,Tecnologia,Telefones e comunicação,T28 WORLD,Caixa Pequena
+670,45570,Crítica,19,77.57,Envio Normal,-67.49,Bart Watters,Prarie,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Avery Poly Binder Pockets,Caixa Pequena
+671,46885,Baixa,32,1997.13,Envio Normal,720.45,Mike Kennedy,Prarie,Corporativo,Mobília,Móveis de escritório,"Howard Miller 16"" Diameter Gallery Wall Clock",Caixa Pequena
+672,46948,Baixa,10,64.13,Envio Normal,-28.97,Mike Kennedy,Prarie,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Wilson Jones® Four-Pocket Poly Binders,Caixa Pequena
+673,47267,Média,24,492.71,Envio Normal,67.01,Theone Pippenger,Prarie,Corporativo,Insumos de Escritório,Papéis,Southworth 25% Cotton Premium Laser Paper and Envelopes,Caixa Pequena
+674,48167,Crítica,45,282.98,Envio Normal,-237.47,Dana Kaydos,Prarie,Corporativo,Insumos de Escritório,Papéis,Xerox 224,Caixa Pequena
+675,48614,Crítica,46,7965.9025,Envio Normal,2311.96,Nathan Mautz,Prarie,Corporativo,Tecnologia,Telefones e comunicação,T28 WORLD,Caixa Pequena
+676,48931,Baixa,33,750.66,Envio Normal,120.05,Charles Sheldon,Prarie,Corporativo,Tecnologia,Periféricos de Computador,"Fellowes Basic 104-Key Keyboard, Platinum",Caixa Pequena
+677,48931,Baixa,8,254.32,Envio Normal,-117.39,Charles Sheldon,Prarie,Corporativo,Tecnologia,Periféricos de Computador,Logitech Internet Navigator Keyboard,Caixa Pequena
+678,48931,Baixa,42,2149.37,Envio Normal,217.87,Charles Sheldon,Prarie,Corporativo,Mobília,Móveis de escritório,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",Caixa Pequena
+679,49763,Crítica,8,49.04,Envio Normal,9.29,Brad Norvell,Prarie,Corporativo,Insumos de Escritório,Envelopes,Staples Standard Envelopes,Caixa Pequena
+680,51333,Não especificada,25,237.36,Envio Normal,-117.86,Theone Pippenger,Prarie,Corporativo,Insumos de Escritório,Papéis,Southworth 25% Cotton Linen-Finish Paper & Envelopes,Caixa Pequena
+681,51365,Alta,35,195.23,Envio Normal,-72.46,Theone Pippenger,Prarie,Corporativo,Mobília,Móveis de escritório,Eldon Wave Desk Accessories,Caixa Pequena
+682,52225,Crítica,33,1817.9,Envio Normal,700.31,Dana Kaydos,Prarie,Corporativo,Insumos de Escritório,Papéis,Xerox 1940,Caixa Pequena
+683,52487,Crítica,17,124.06,Envio Normal,15.74,Nathan Mautz,Prarie,Corporativo,Insumos de Escritório,Envelopes,Staples #10 Colored Envelopes,Caixa Pequena
+684,55749,Crítica,42,364.8,Envio Normal,149.45,Brad Norvell,Prarie,Corporativo,Insumos de Escritório,Envelopes,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Caixa Pequena
+685,56708,Não especificada,36,407.17,Envio Normal,-12.82,Art Ferguson,Prarie,Corporativo,Insumos de Escritório,Envelopes,"Peel & Seel® Recycled Catalog Envelopes, Brown",Caixa Pequena
+686,58725,Não especificada,39,335.35,Envio Normal,-134.97,Joel Jenkins,Prarie,Corporativo,Insumos de Escritório,Envelopes,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Caixa Pequena
+687,902,Não especificada,10,1925.83,Envio Normal,359.83,Meg O'Connel,Prarie,Corporativo,Insumos de Escritório,Eletrodomésticos,Kensington 7 Outlet MasterPiece Power Center with Fax/Phone Line Protection,Caixa Pequena
+688,2306,Alta,15,113.5,Envio Normal,-46.35,Liz Thompson,Prarie,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Caixa Pequena
+689,4037,Alta,27,188.07,Envio Normal,-101.85,Bruce Stewart,Prarie,Corporativo,Insumos de Escritório,Papéis,Xerox 213,Caixa Pequena
+690,5863,Média,40,933.21,Envio Normal,207.18,Guy Thornton,Prarie,Corporativo,Mobília,Móveis de escritório,"Seth Thomas 12"" Clock w/ Goldtone Case",Caixa Pequena
+691,7364,Alta,15,260.39,Envio Normal,-48.57,Mary Zewe,Prarie,Corporativo,Insumos de Escritório,Envelopes,Brown Kraft Recycled Envelopes,Caixa Pequena
+692,8551,Crítica,25,185.64,Envio Normal,-69.87,Meg O'Connel,Prarie,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Caixa Pequena
+693,8551,Crítica,34,225.98,Envio Normal,-135.74,Meg O'Connel,Prarie,Corporativo,Insumos de Escritório,Papéis,Xerox 213,Caixa Pequena
+694,15142,Não especificada,21,330.22,Envio Normal,-51.72,Meg O'Connel,Prarie,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Recycled Premium Regency Composition Covers,Caixa Pequena
+695,15872,Não especificada,23,188.53,Envio Normal,-27.49,Helen Andreada,Prarie,Corporativo,Insumos de Escritório,Papéis,"1/4 Fold Party Design Invitations & White Envelopes, 24 8-1/2"" X 11"" Cards, 25 Env./Pack",Caixa Pequena
+696,15872,Não especificada,19,718.41,Envio Normal,23.94,Helen Andreada,Prarie,Corporativo,Insumos de Escritório,Papéis,Xerox 1893,Caixa Pequena
+697,24386,Alta,41,4256.51,Envio Normal,1653.96,Bruce Stewart,Prarie,Corporativo,Tecnologia,Periféricos de Computador,Gyration Ultra Cordless Optical Suite,Caixa Pequena
+698,24386,Alta,12,503.08,Envio Normal,-102.74,Bruce Stewart,Prarie,Corporativo,Tecnologia,Periféricos de Computador,Targus USB Numeric Keypad,Caixa Pequena
+699,25473,Alta,20,794.32,Envio Normal,67.61,Mary Zewe,Prarie,Corporativo,Insumos de Escritório,Papéis,Xerox 1893,Caixa Pequena
+700,26691,Não especificada,37,270.43,Envio Normal,-83.16,Liz Thompson,Ontario,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC VeloBinder Strips,Caixa Pequena
+701,29927,Alta,19,257.97,Envio Normal,33.18,Bruce Stewart,Ontario,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC Binding covers,Caixa Pequena
+702,33250,Não especificada,40,7381.19,Envio Normal,2998.88,Guy Thornton,Ontario,Corporativo,Insumos de Escritório,Eletrodomésticos,Kensington 7 Outlet MasterPiece Power Center,Caixa Pequena
+703,37862,Não especificada,27,1603.27,Envio Normal,452.49,Guy Thornton,Ontario,Corporativo,Insumos de Escritório,Eletrodomésticos,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,Caixa Pequena
+704,39015,Média,11,74.02,Envio Normal,-28.45,Lycoris Saunders,Ontario,Corporativo,Insumos de Escritório,Papéis,Xerox 1994,Caixa Pequena
+705,40962,Crítica,28,1553.66,Envio Normal,547.48,Mary Zewe,Ontario,Corporativo,Insumos de Escritório,Eletrodomésticos,Belkin 5 Outlet SurgeMaster™ Power Centers,Caixa Pequena
+706,40962,Crítica,30,3276.9965,Envio Normal,653.06,Mary Zewe,Ontario,Corporativo,Tecnologia,Telefones e comunicação,M70,Caixa Pequena
+707,50949,Média,46,4804.0385,Envio Normal,1077.92,Guy Thornton,Ontario,Corporativo,Tecnologia,Telefones e comunicação,StarTAC 6500,Caixa Pequena
+708,53152,Média,5,185.79,Envio Normal,-159.68,Bill Eplett,Ontario,Corporativo,Tecnologia,Periféricos de Computador,Fellowes EZ Multi-Media Keyboard,Caixa Pequena
+709,53152,Média,9,186.67,Envio Normal,2.06,Bill Eplett,Ontario,Corporativo,Insumos de Escritório,Papéis,Southworth 25% Cotton Premium Laser Paper and Envelopes,Caixa Pequena
+710,55526,Alta,23,445.17,Envio Normal,38.11,Guy Thornton,Ontario,Corporativo,Insumos de Escritório,Papéis,Computer Printout Paper with Letter-Trim Perforations,Caixa Pequena
+711,57153,Crítica,45,698.1,Envio Normal,336.25,Meg O'Connel,Ontario,Corporativo,Insumos de Escritório,Envelopes,"#10 White Business Envelopes,4 1/8 x 9 1/2",Caixa Pequena
+712,59878,Alta,23,249.64,Envio Normal,-91.65,Ivan Gibson,Ontario,Corporativo,Insumos de Escritório,Armazenamento e Organização,Crate-A-Files™,Caixa Pequena
+713,1600,Média,32,303.59,Envio Normal,-45.99,Liz MacKendrick,Ontario,Corporativo,Mobília,Móveis de escritório,"Eldon Expressions™ Desk Accessory, Wood Pencil Holder, Oak",Caixa Pequena
+714,1600,Média,36,191.6,Envio Normal,-150.74,Liz MacKendrick,Ontario,Corporativo,Insumos de Escritório,Papéis,Xerox 1922,Caixa Pequena
+715,2373,Não especificada,36,317.59,Envio Normal,-46.12,Craig Carroll,Ontario,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Avery Printable Repositionable Plastic Tabs,Caixa Pequena
+716,3109,Baixa,37,6477.7395,Envio Normal,1653.97,Liz MacKendrick,Ontario,Corporativo,Tecnologia,Telefones e comunicação,Talkabout T8097,Caixa Pequena
+717,12452,Média,1,356.95,Envio Normal,-228.24,Bill Donatelli,Ontario,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Fellowes PB300 Plastic Comb Binding Machine,Caixa Pequena
+718,12452,Média,38,2063.42,Envio Normal,989.95,Bill Donatelli,Ontario,Corporativo,Insumos de Escritório,Papéis,Xerox 1934,Caixa Pequena
+719,15808,Crítica,45,882.96,Envio Normal,11.65,Bill Donatelli,Ontario,Corporativo,Tecnologia,Periféricos de Computador,Belkin 105-Key Black Keyboard,Caixa Pequena
+720,29318,Não especificada,34,3375.3075,Envio Normal,562.13,Bobby Odegard,Ontario,Corporativo,Tecnologia,Telefones e comunicação,StarTAC ST7762,Caixa Pequena
+721,30016,Crítica,15,85.56,Envio Normal,-41.58,Bill Donatelli,Ontario,Corporativo,Insumos de Escritório,Papéis,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Caixa Pequena
+722,30016,Crítica,8,754.6555,Envio Normal,-212.55,Bill Donatelli,Ontario,Corporativo,Tecnologia,Telefones e comunicação,T18,Caixa Pequena
+723,40961,Média,7,23.84,Envio Normal,5.88,Bill Donatelli,Ontario,Corporativo,Insumos de Escritório,Etiqueta,Avery 520,Caixa Pequena
+724,41543,Baixa,24,1318.8685,Envio Normal,172.33,Bill Donatelli,Ontario,Corporativo,Tecnologia,Telefones e comunicação,StarTAC 7760,Caixa Pequena
+725,56101,Não especificada,44,5347.13,Envio Normal,1886.41,Bill Donatelli,Ontario,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,GBC Therma-A-Bind 250T Electric Binding System,Caixa Pequena
+726,1059,Crítica,22,127.33,Envio Normal,5.3,Sean O'Donnell,Ontario,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,Caixa Pequena
+727,1059,Crítica,24,990.1,Envio Normal,310.22,Sean O'Donnell,Ontario,Corporativo,Insumos de Escritório,Fichários e acessórios de fichário,"Wilson Jones Ledger-Size, Piano-Hinge Binder, 2"", Blue",Caixa Pequena
+728,1826,Não especificada,5,28.32,Envio Normal,-14.35,Susan Vittorini,Ontario,Corporativo,Insumos de Escritório,Papéis,Hammermill CopyPlus Copy Paper (20Lb. and 84 Bright),Caixa Pequena
+729,20003,Média,39,796.08,Envio Normal,30.29,Shirley Schmidt,Ontario,Corporativo,Tecnologia,Periféricos de Computador,Belkin 105-Key Black Keyboard,Caixa Pequena
