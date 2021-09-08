@@ -1,5 +1,6 @@
 # Tabela-Pandas
 Projeto de analise de dados com Pandas e Python da DIO
+Estarei realizando outras análises futuras deste arquivo e aprimorando
 
 Dataset do seguinte Link
 https://www.kaggle.com/anuvagoyal/sales-store-product-details
